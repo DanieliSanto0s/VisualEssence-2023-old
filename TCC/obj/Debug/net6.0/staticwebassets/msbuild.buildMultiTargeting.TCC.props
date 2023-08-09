@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\TCC.props" />
+  <Import Project="..\build\Tcc.props" />
 </Project>

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    min-height: 420vh;
+
+
+    background: rgb(151, 186, 206);
+    background: linear-gradient(360deg, rgba(151, 186, 206, 1) 6%, rgba(118, 170, 219, 1) 47%, rgb(64, 122, 198) 100%);
+
+}

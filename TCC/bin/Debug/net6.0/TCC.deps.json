@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "TCC/1.0.0": {
+      "Tcc/1.0.0": {
         "runtime": {
-          "TCC.dll": {}
+          "Tcc.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TCC/1.0.0": {
+    "Tcc/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

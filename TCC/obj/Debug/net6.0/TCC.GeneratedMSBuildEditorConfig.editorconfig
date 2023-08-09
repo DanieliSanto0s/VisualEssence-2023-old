@@ -7,35 +7,39 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = TCC
-build_property.RootNamespace = TCC
-build_property.ProjectDir = F:\TCC\TCC\
+build_property.RootNamespace = Tcc
+build_property.RootNamespace = Tcc
+build_property.ProjectDir = F:\Tcc\Tcc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\TCC\TCC
+build_property.MSBuildProjectDirectory = F:\Tcc\Tcc
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/TCC/TCC/Views/Home/Index.cshtml]
+[F:/Tcc/Tcc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TCC/TCC/Views/Shared/Error.cshtml]
+[F:/Tcc/Tcc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Tcc/Tcc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TCC/TCC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Tcc/Tcc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TCC/TCC/Views/_ViewImports.cshtml]
+[F:/Tcc/Tcc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TCC/TCC/Views/_ViewStart.cshtml]
+[F:/Tcc/Tcc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/TCC/TCC/Views/Shared/_Layout.cshtml]
+[F:/Tcc/Tcc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-r5vxt2sssx
+build_metadata.AdditionalFiles.CssScope = b-9rrsv4y27b

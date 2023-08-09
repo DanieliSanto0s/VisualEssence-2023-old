@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TCC\\TCC\\TCC.csproj": {}
+    "F:\\Tcc\\Tcc\\Tcc.csproj": {}
   },
   "projects": {
-    "F:\\TCC\\TCC\\TCC.csproj": {
+    "F:\\Tcc\\Tcc\\Tcc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TCC\\TCC\\TCC.csproj",
-        "projectName": "TCC",
-        "projectPath": "F:\\TCC\\TCC\\TCC.csproj",
+        "projectUniqueName": "F:\\Tcc\\Tcc\\Tcc.csproj",
+        "projectName": "Tcc",
+        "projectPath": "F:\\Tcc\\Tcc\\Tcc.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "F:\\TCC\\TCC\\obj\\",
+        "outputPath": "F:\\Tcc\\Tcc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

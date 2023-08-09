@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\TCC.props" />
+  <Import Project="..\buildMultiTargeting\Tcc.props" />
 </Project>
