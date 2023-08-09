@@ -4,6 +4,8 @@
 html {
   position: relative;
   min-height: 100%;
+  color:white;
+
 }
 
 body {
@@ -13,8 +15,91 @@ body {
     font-family: 'Inter', sans-serif;
     min-height: 420vh;
 
-
     background: rgb(151, 186, 206);
     background: linear-gradient(360deg, rgba(151, 186, 206, 1) 6%, rgba(118, 170, 219, 1) 47%, rgb(64, 122, 198) 100%);
 
 }
+
+header {
+    position: fixed;
+    width: 100%;
+    padding-top: 0px;
+    z-index: 2;
+}
+
+
+header ul {
+        display: flex;
+        width: 100%;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        background-image: linear-gradient(360deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.452));
+        color: white;
+    }
+
+
+.logo {
+    width: 8em;
+    height: 8em;
+    cursor: pointer;
+}
+
+
+.ul-cont {
+    position: relative;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.cont-item a  {
+    text-decoration: none;
+    font-size: 18px;
+    color:wheat;
+}
+
+
+    .cont-item::after {
+        content: '';
+        width: 0;
+        height: 3px;
+        background-color: white;
+        margin: auto;
+        display: block;
+        transition: width 0.1s linear;
+    }
+
+    .cont-item:hover::after {
+        width: 100%;
+        transition: 0.1s linear;
+    }
+
+.ul_imgPerfil {
+    width: 50px;
+    height: 50px;
+    border-radius: 2.5em;
+    cursor: pointer;
+}
+
+
+
+.ul-logout {
+    transition: .5s;
+    color: white;
+    font-size: 2.0em;
+    cursor: pointer;
+}
+
+    .ul-logout:hover {
+        transform: scale(1.2);
+        transition: .5s;
+    }

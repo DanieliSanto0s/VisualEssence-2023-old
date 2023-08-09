@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yYj2J6qTxh0lOzHlkNzJJXACwtZz1qT1Bio97wCAyyXD6ugskMOj87ADFS4wQklyFz2FuoAO5R+NaEsAONAelg==",
+  "dgSpecHash": "D2xWUHwhC1Naqnx+YmOxB0lgxSc/9l8o3VIBaReieg001Q58ETbXB3PtNYoSikPfqzO9Sjl7OdC2tom1gy9x9w==",
   "success": true,
-  "projectFilePath": "F:\\Tcc\\Tcc\\Tcc.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\Tcc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

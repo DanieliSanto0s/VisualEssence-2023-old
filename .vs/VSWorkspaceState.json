@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TCC"
+    "\\TCC",
+    "\\TCC\\Controllers",
+    "\\TCC\\Models",
+    "\\TCC\\Views",
+    "\\TCC\\Views\\Home",
+    "\\TCC\\Views\\Shared"
   ],
-  "SelectedNode": "\\TCC\\obj",
+  "SelectedNode": "\\TCC\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }

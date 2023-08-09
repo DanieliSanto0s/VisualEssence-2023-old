@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TCC")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tcc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TCC")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TCC")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tcc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tcc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
