@@ -21,12 +21,3 @@ menuLinks.forEach((link) =>
     link.addEventListener("click", scrollToSection)
 )
 
-const timer = setInterval(() => {
-    const time = new Date().getTime() - startTime;
-    const newX = easeInOutQuart(time, startX, distanceX, duration);
-    const newY = easeInOutQuart(time, startY, distanceY, duration);
-    if (time >= duration) {
-        clearInterval(timer);
-    }
-    window.scroll(newX, newY);
-}, 1000 / 60);
