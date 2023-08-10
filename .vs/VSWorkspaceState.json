@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\TCC",
-    "\\TCC\\Controllers",
-    "\\TCC\\Models",
     "\\TCC\\Views",
     "\\TCC\\Views\\Home",
-    "\\TCC\\Views\\Shared"
+    "\\TCC\\Views\\Shared",
+    "\\TCC\\wwwroot",
+    "\\TCC\\wwwroot\\css"
   ],
   "SelectedNode": "\\TCC\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false

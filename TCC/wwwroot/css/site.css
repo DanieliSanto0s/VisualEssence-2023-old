@@ -1,29 +1,128 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+@media only screen and (max-width: 1400px) {
+    header nav ul {
+        height: 7em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
-html {
-  position: relative;
-  min-height: 100%;
-  color:white;
+    header.App-header .ul-cont .cont-item {
+        font-size: .5em;
+    }
 
+    header.App-header .ul-cont {
+        font-size: .5em;
+    }
+
+    header.App-header .ul-img {
+        width: 3em;
+        height: 6em;
+    }
+
+
+    section.secSobre {
+        font-size: .6em;
+    }
+
+        section.secSobre img {
+            width: 28em;
+        }
+
+    section.secDoe {
+        font-size: .6em;
+    }
+
+        section.secDoe img {
+            width: 28em;
+        }
+
+    section.secJogos {
+        font-size: .6em;
+    }
+
+        section.secJogos img {
+            width: 28em;
+        }
+
+    section.secContato {
+        font-family: .6em;
+    }
+
+        section.secContato img {
+            width: 28em;
+        }
 }
+
+@media only screen and (max-width: 800px) {
+    header nav ul {
+        height: 5em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header.App-header .ul-cont .cont-item {
+        font-size: .6em;
+    }
+
+    header.App-header .ul-cont {
+        font-size: .6em;
+    }
+
+    header.App-header .ul-img img {
+        width: 7em;
+        height: 7em;
+    }
+
+
+    section.secSobre {
+        font-size: 0.4em;
+    }
+
+        section.secSobre img {
+            width: 20em;
+        }
+
+    section.secDoe {
+        font-size: 0.4em;
+    }
+
+        section.secDoe img {
+            width: 20em;
+        }
+
+    section.secJogos {
+        font-size: 0.4em;
+    }
+
+        section.secJogos img {
+            width: 20em;
+        }
+
+    section.secContato {
+        font-family: 0.4em;
+    }
+
+        section.secContato img {
+            width: 20em;
+        }
+}
+
 
 body {
     margin: 0;
     padding: 0;
     text-decoration: none;
     font-family: 'Inter', sans-serif;
-    min-height: 420vh;
-
     background: rgb(151, 186, 206);
     background: linear-gradient(360deg, rgba(151, 186, 206, 1) 6%, rgba(118, 170, 219, 1) 47%, rgb(64, 122, 198) 100%);
-
 }
 
 header {
     position: fixed;
     width: 100%;
-    padding-top: 0px;
     z-index: 2;
 }
 
@@ -36,7 +135,8 @@ header ul {
         justify-content: space-around;
         background-image: linear-gradient(360deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.452));
         color: white;
-    }
+        margin:0;
+}
 
 
 .logo {
@@ -54,11 +154,11 @@ header ul {
     flex-direction: row;
     justify-content: space-around;
     width: 50%;
-    color: white;
     font-weight: 700;
     font-size: 18px;
     padding: 0 10px;
     cursor: pointer;
+    color:white;
 }
 
 .cont-item a  {
@@ -76,6 +176,7 @@ header ul {
         margin: auto;
         display: block;
         transition: width 0.1s linear;
+        color:white;
     }
 
     .cont-item:hover::after {
@@ -103,3 +204,418 @@ header ul {
         transform: scale(1.2);
         transition: .5s;
     }
+
+
+main {
+    scroll-snap-type: y mandatory;
+    overflow-y: hidden;
+    height: 100%;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+}
+
+
+
+
+div.sec-Sobre {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    justify-content: space-evenly;
+}
+
+div.sob-Titulo {
+    font-size: 1em;
+}
+
+div.sob-Texto {
+    font-size: 1.5em;
+}
+
+div.sob-cont {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    text-align: center;
+    padding: 2em;
+    width: 50em;
+}
+
+.sob-img {
+    width: 31.28em;
+    height: 31.28em;
+}
+
+
+/*--------------------*/
+
+
+div.contDoe {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+
+div.c_Conteudo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5em;
+    padding: 2em;
+}
+
+div.c_doe_grafico img {
+    border-radius: 1em;
+}
+
+
+div.c_doInfTitulo {
+    font-size: 1em;
+}
+
+div.c_doInf_Texto {
+    font-size: 1.5em;
+}
+
+div.c_doeInfos {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    text-align: center;
+    padding: 2em;
+    width: 50em;
+}
+
+button.c_inf-button {
+    border: none;
+    color: white;
+    padding: .5em 2.5em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1em;
+    background: #3B3F47;
+    font-family: Inter;
+    font-size: 1.2em;
+    transition: .5s;
+    cursor: pointer;
+}
+
+    button.c_inf-button:hover {
+        transform: scale(1.1);
+        border-radius: .5em;
+        transition: .3s;
+    }
+
+
+/*--------------------*/
+
+div.jogos-conteudo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 250%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+
+div.jog-conteudo-comp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+div.cont_jogos-titulo {
+    font-size: 1.5em;
+    padding-bottom: 3em;
+}
+
+div.cont_jogos-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div.cont_jogos_caixa-op {
+    display: flex;
+    flex-direction: column;
+}
+
+div.cont_jogos-c-op-1-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4em;
+    padding: 1em;
+}
+
+div.op-cx-op-A {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: .5em;
+    gap: .5em;
+}
+
+div.op-titulo {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+div.op-botao img {
+    border-radius: 2em;
+    transition: .3s;
+    cursor: pointer;
+    width: 10em;
+    height: 10em;
+}
+
+div.op-botao :hover {
+    border-radius: 1em;
+    transition: .3s;
+}
+
+div.op-Texto {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: .3em;
+    width: 55vh;
+    font-size: 1em;
+}
+
+/*---------op2----------*/
+
+div.cont_jogos-c-op-2-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4em;
+    padding: 1em;
+}
+
+div.op-cx-op-B {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: .5em;
+    gap: .5em;
+}
+
+div.op-B-titulo {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+div.op-B-botao img {
+    border-radius: 2em;
+    transition: .3s;
+    cursor: pointer;
+    width: 15em;
+    height: 15em;
+}
+
+div.op-B-botao :hover {
+    border-radius: 1em;
+    transition: .3s;
+}
+
+div.op-B-Texto {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: .3em;
+    width: 55vh;
+    font-size: 1.3em;
+}
+
+/*----------------------*/
+div.cont_jogos-c-op-3-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 4em;
+    padding: 1em;
+}
+
+div.op-cx-op-C {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: .5em;
+    gap: .5em;
+}
+
+div.op-C-titulo {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+
+div.op-C-botao img {
+    border-radius: 2em;
+    transition: .3s;
+    cursor: pointer;
+    width: 15em;
+    height: 15em;
+}
+
+div.op-C-botao :hover {
+    border-radius: 1em;
+    transition: .3s;
+}
+
+div.op-C-Texto {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: .3em;
+    width: 55vh;
+    font-size: 1.3em;
+}
+
+/*----------------------------------*/
+
+div.contato-conteudo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 350%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+div.cont-geral {
+    border-radius: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+}
+
+div.box-contato {
+    margin: 10px;
+    padding: 2em;
+}
+
+div.box-c-form {
+    margin: 10px;
+    padding: 1em;
+}
+
+form.cont-form {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    align-items: center;
+    justify-content: center;
+    padding: 3em;
+}
+
+
+
+span.info-area {
+    display: flex;
+    flex-direction: column;
+}
+
+div.info-cont {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 3em);
+}
+
+span.info-area input[type=text] {
+    border: none;
+    border-radius: .6em;
+    width: 28em;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: .6em;
+    padding: .5em;
+}
+
+span.info-area input[type=submit] {
+    margin-top: 1em;
+    border: none;
+    border-radius: .6em;
+    width: auto;
+    background-color: #3B3F47;
+    color: white;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    transition: .3s;
+}
+
+
+    span.info-area input[type=submit]:hover {
+        border-radius: .5em;
+        transition: .3s;
+    }
+
+span.txt-area {
+    padding: 1em;
+    width: 100%;
+    height: 100%;
+}
+
+    span.txt-area textarea {
+        outline: none;
+        width: 100%;
+        height: 100%;
+        border: none;
+        border-radius: .5em;
+        padding: 0 .4em 0 .4em;
+        resize: none;
+    }
+
+  
