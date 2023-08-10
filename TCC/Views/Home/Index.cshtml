@@ -11,22 +11,22 @@
 </head>
 
 <header>
-    <nav>
+    <nav class="menu">
 
         <ul>
 
             <div class='ul-img'>
 
-                <img class="logo" src="img/logo.png"></img>
+                <img class="logo" src="img/logo.png" id="sobre"></img>
 
             </div>
 
             <div class='ul-cont'>
 
-                <a class='cont-item'>SOBRE</a>
-                <a class='cont-item'>ONG</a>
-                <a class='cont-item'>JOGOS</a>
-                <a class='cont-item'>CONTATO</a>
+                <a class='cont-item' href="#sobre">SOBRE</a>
+                <a class='cont-item' href="#ongs">ONG</a>
+                <a class='cont-item' href="#jogos">JOGOS</a>
+                <a class='cont-item' href="#contato">CONTATO</a>
                 <a class='cont-icon'> </a>
 
             </div>
@@ -49,7 +49,7 @@
 
 <main>
 
-    <section ref={sobre} class='secSobre'>
+    <section id="sobre" class='secSobre'>
 
         <div class='Container'>
 
@@ -85,7 +85,7 @@
         </div>
     </section>
 
-    <section ref={ongs} class='secDoe'>
+    <section id="ongs" class='secDoe'>
         <div class='contDoe'>
 
             <div class='c_Conteudo'>
@@ -124,7 +124,7 @@
 
     </section>
 
-    <section ref={jogos} class='secJogos'>
+    <section id="jogos" class='secJogos'>
 
         <div class='jogos-conteudo'>
 
@@ -208,7 +208,7 @@
 
     </section>
 
-    <section ref={contato} class='secContato'>
+    <section id="contato" class='secContato'>
         <div class='contato-conteudo'>
             <div class='cont-geral'>
 
@@ -248,4 +248,5 @@
 
 </main>
 
+<script src="~/js/site.js"></script>
 </html>
