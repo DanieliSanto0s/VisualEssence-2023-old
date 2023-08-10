@@ -18,11 +18,11 @@ namespace Tcc.Controllers
             return View();
         }
 
-        public IActionResult Perfil()
+        public ActionResult Perfil()
         {
             return View();
         }
-        public IActionResult Doacao()
+        public ActionResult Doacao()
         {
             return View();
         }
