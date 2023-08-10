@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pX+fO/8+uXSjYHORN2iZY0jjlQzaSk5nXLajrzJlP1k=",
+  "Hash": "tMgAm4xvhmybMR2iT/y4f/hNUuP97V2vRrNyfHu0Y9I=",
   "Source": "Tcc",
   "BasePath": "_content/Tcc",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\css\\header.css",
-      "SourceId": "Tcc",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
-      "BasePath": "_content/Tcc",
-      "RelativePath": "css/header.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\header.css"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\css\\site.css",

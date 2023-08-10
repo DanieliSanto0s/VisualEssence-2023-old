@@ -110,17 +110,18 @@
         }
 }
 
-html{
-    scroll-behavior:smooth;
+html {
+    scroll-behavior: smooth;
     background: rgb(151, 186, 206);
     background: linear-gradient(360deg, rgba(151, 186, 206, 1) 6%, rgba(118, 170, 219, 1) 47%, rgb(64, 122, 198) 100%);
+    min-height:400vh;
 }
 body {
     margin: 0;
     padding: 0;
     text-decoration: none;
     font-family: 'Inter', sans-serif;
-    height:auto;
+
 }
 
 header {
