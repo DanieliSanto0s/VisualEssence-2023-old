@@ -9,12 +9,20 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tcc
 build_property.RootNamespace = Tcc
-build_property.ProjectDir = C:\Users\Bruno\Source\Repos\bbrunoo\TCC\TCC\
+build_property.ProjectDir = C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bruno\Source\Repos\bbrunoo\TCC\TCC
+build_property.MSBuildProjectDirectory = C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/AstigmatismoGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBc3RpZ21hdGlzbW9HYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/DaltonismoGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYWx0b25pc21vR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/Doacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb2FjYW8uY3NodG1s
@@ -24,16 +32,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/Jogos/AstigmatismoGame.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2dvc1xBc3RpZ21hdGlzbW9HYW1lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/Jogos/DaltonismoGame.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2dvc1xEYWx0b25pc21vR2FtZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/Jogos/MiopiaGame.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb2dvc1xNaW9waWFHYW1lLmNzaHRtbA==
+[C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/MiopiaGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaW9waWFHYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bruno/Source/Repos/bbrunoo/TCC/TCC/Views/Home/Perfil.cshtml]
