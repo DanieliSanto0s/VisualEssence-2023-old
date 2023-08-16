@@ -8,9 +8,12 @@
         align-items: center;
     }
 
+
+
     header.App-header .ul-cont .cont-item {
         font-size: .5em;
     }
+
 
     header.App-header .ul-cont {
         font-size: .5em;
@@ -21,9 +24,10 @@
         height: 6em;
     }
 
-
-    section.secSobre {
-        font-size: .6em;
+    header.App-header .ul-logout {
+       width:30px;
+       height:30px;
+       background-color: brown;
     }
 
         section.secSobre img {
@@ -43,7 +47,7 @@
     }
 
         section.secJogos img {
-            width: 28em;
+            width: 20em;
         }
 
     section.secContato {
@@ -149,6 +153,10 @@ header {
     cursor: pointer;
 }
 
+.c-color{
+    width:20px;
+    height:20px;
+}
 
 .ul-cont {
     position: relative;
@@ -161,7 +169,7 @@ header {
     font-size: 18px;
     padding: 0 10px;
     cursor: pointer;
-    color:white;
+    color: white;
 }
 
 a  {
@@ -197,10 +205,10 @@ a  {
 
 
 
-.ul-logout {
+.ul-logout img {
+    width:2.5em;
+    height:2.5em;
     transition: .5s;
-    color: white;
-    font-size: 2.0em;
     cursor: pointer;
 }
 
@@ -359,9 +367,6 @@ div.jog-conteudo-comp {
     justify-content: center;
 }
 
-
-
-
 div.cont_jogos-titulo {
     font-size: 1.5em;
     padding-bottom: 3em;
@@ -407,13 +412,14 @@ div.op-botao img {
     border-radius: 2em;
     transition: .3s;
     cursor: pointer;
-    width: 10em;
-    height: 10em;
+    width: 8em;
+    height: 8em;
 }
 
-div.op-botao :hover {
-    border-radius: 1em;
+div.op-botao img :hover{
+    border-radius: 2em;
     transition: .3s;
+    background-color:brown;
 }
 
 div.op-Texto {

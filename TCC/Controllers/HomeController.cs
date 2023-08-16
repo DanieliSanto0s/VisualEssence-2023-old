@@ -18,14 +18,29 @@ namespace Tcc.Controllers
             return View();
         }
 
-        public ActionResult Perfil()
+        public IActionResult Perfil()
         {
             return View();
         }
-        public ActionResult Doacao()
+        public IActionResult Doacao()
         {
             return View();
         }
+        public IActionResult DaltonismoGame()
+        {
+            return View();
+        }
+        public IActionResult MiopiaGame()
+        {
+            return View();
+        } 
+        public IActionResult AstigmatismoGame()
+        {
+            return View();
+        }
+
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
