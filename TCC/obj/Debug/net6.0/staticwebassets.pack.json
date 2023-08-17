@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl1.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl1.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl2.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl2.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl3.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl3.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl4.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl4.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl5.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl5.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl6.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl6.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl7.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl7.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl8.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl8.png"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
       "PackagePath": "staticwebassets\\img\\crianca.png"
     },
@@ -41,8 +73,16 @@
       "PackagePath": "staticwebassets\\img\\miopia.png"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\moon.png",
+      "PackagePath": "staticwebassets\\img\\moon.png"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
       "PackagePath": "staticwebassets\\img\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\sun.png",
+      "PackagePath": "staticwebassets\\img\\sun.png"
     },
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\js\\site.js",

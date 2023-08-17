@@ -9,7 +9,6 @@
     }
 
 
-
     header.App-header .ul-cont .cont-item {
         font-size: .5em;
     }
@@ -24,31 +23,46 @@
         height: 6em;
     }
 
-    header.App-header .ul-logout {
-       width:30px;
-       height:30px;
-       background-color: brown;
-    }
-
         section.secSobre img {
-            width: 28em;
+            width: 30em;
         }
+
+    section.secSobre {
+    font-size:.6em;
+
+    }
 
     section.secDoe {
         font-size: .6em;
     }
 
         section.secDoe img {
-            width: 28em;
+            width:30em;
+            
+        }
+
+        section.secDoe button {
+            font-size:.8em;
         }
 
     section.secJogos {
-        font-size: .6em;
     }
 
-        section.secJogos img {
-            width: 20em;
+        section.secJogos .jogos-conteudo img {
+            background-color: green;
+            width: 5em;
+            height: 5em;
         }
+
+        section.secJogos  {
+            font-size: .8em;
+        }
+
+            section.secJogos .cont_jogos-titulo {
+                height:0;
+                width:0;
+                background-color: gray;
+            }
 
     section.secContato {
         font-family: .6em;
@@ -86,7 +100,7 @@
     }
 
         section.secSobre img {
-            width: 20em;
+            width:20em;
         }
 
     section.secDoe {
@@ -409,7 +423,7 @@ div.op-titulo {
 }
 
 div.op-botao img {
-    border-radius: 2em;
+    border-radius: 1em;
     transition: .3s;
     cursor: pointer;
     width: 8em;
