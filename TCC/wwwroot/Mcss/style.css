@@ -1,18 +1,94 @@
-﻿body {
-      margin:0;
-      padding:0;
-      min-width:100vw;
-      min-height:100vh;
-      position:fixed;
-      z-index:2;
+﻿@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
 }
 
-background-img{
-    
-      background-image:url(./img/playground.png);
-      opacity:0.5;
-      background-size:contain;
-      background-repeat:no-repeat;
-      width:200px;
-      height:100vh;
+body {
+    background: url(/img/playground2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #1E1E1E;
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.MiopiaContainer {
+    width: 35em;
+    height: 55em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-botao a {
+    display: flex;
+    flex-direction: column;
+    width: 5em;
+    height: 5em;
+    text-decoration: none;
+    box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
+    border-radius: .8em;
+    background-color: #514EEF;
+    cursor: pointer;
+}
+
+
+
+.linha1 {
+    display: flex;
+    flex-direction: row;
+    border-radius: .8em;
+    padding: 2em;
+    gap: 2em;
+}
+
+.linha2 {
+    display: flex;
+    flex-direction: row;
+    border-radius: 12px;
+    padding: 2em;
+    gap: 2em;
+
+
+}
+
+.b-avançar {
+    width: 7em;
+    height: 4.5em;
+    background-color: #514EEF;
+    border-radius: .8em;
+    box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Holtwood One SC', serif;
+    color: #ffffff;
+    transition: .3s;
+}
+
+.b-titulo h1 {
+        display: flex;
+        font-family: 'Holtwood One SC', serif;
+        color: #ffffff;
+        padding: 1em;
+        font-weight: 100;
+}
+
+.b-img {
+    width: 20em;
+    height: 20em;
+    border-radius: 20px;
+    background: #61BDFF;
+    box-shadow: 0px 15px 11px 0px rgba(0, 0, 0, 0.25);
 }

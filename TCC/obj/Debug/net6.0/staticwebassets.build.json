@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RUP5X779ew0ZTenam6jtXAHi89jrwx+RC3ImBKm4iDc=",
+  "Hash": "ZNfJZNrIVXYEAgx+rd7ZQLMW3w2nXhRL7J+ID9AhH5E=",
   "Source": "Tcc",
   "BasePath": "_content/Tcc",
   "Mode": "Default",
@@ -423,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\playground.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\playground2.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/playground2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\playground2.png"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\sun.png",

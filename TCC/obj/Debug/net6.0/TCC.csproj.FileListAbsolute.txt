@@ -40,7 +40,6 @@ C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\bin\Debug\net6.0\Tcc.deps.json
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\bin\Debug\net6.0\Tcc.runtimeconfig.json
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\bin\Debug\net6.0\Tcc.dll
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\bin\Debug\net6.0\Tcc.pdb
-C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\Tcc.csproj.AssemblyReference.cache
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\Tcc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\Tcc.AssemblyInfoInputs.cache
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\Tcc.AssemblyInfo.cs
