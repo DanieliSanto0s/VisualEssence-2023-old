@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\Tcc.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
+      "PackagePath": "staticwebassets\\Acss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
+      "PackagePath": "staticwebassets\\Dcss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
+      "PackagePath": "staticwebassets\\Mcss\\style.css"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -79,6 +91,10 @@
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
       "PackagePath": "staticwebassets\\img\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\playground.png",
+      "PackagePath": "staticwebassets\\img\\playground.png"
     },
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\sun.png",

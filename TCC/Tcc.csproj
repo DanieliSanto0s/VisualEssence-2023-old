@@ -7,6 +7,26 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers\NovaPasta\**" />
+    <Compile Remove="Views\MiopiaFases\**" />
+    <Compile Remove="Views\Stuff\**" />
+    <Content Remove="Controllers\NovaPasta\**" />
+    <Content Remove="Views\MiopiaFases\**" />
+    <Content Remove="Views\Stuff\**" />
+    <EmbeddedResource Remove="Controllers\NovaPasta\**" />
+    <EmbeddedResource Remove="Views\MiopiaFases\**" />
+    <EmbeddedResource Remove="Views\Stuff\**" />
+    <None Remove="Controllers\NovaPasta\**" />
+    <None Remove="Views\MiopiaFases\**" />
+    <None Remove="Views\Stuff\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\MiopaFasesController.cs" />
+    <Compile Remove="Controllers\StuffController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\img\" />
   </ItemGroup>
 

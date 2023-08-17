@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RoY6nfwmIq75wwL8i+j4RpQtBKqv6+79tNYV4IlCRDs=",
+  "Hash": "RUP5X779ew0ZTenam6jtXAHi89jrwx+RC3ImBKm4iDc=",
   "Source": "Tcc",
   "BasePath": "_content/Tcc",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "Acss/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Acss\\style.css"
+    },
+    {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\css\\site.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "Dcss/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Dcss\\style.css"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\favicon.ico",
@@ -372,6 +406,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\perfil.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\playground.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/playground.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\playground.png"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\sun.png",
@@ -1375,6 +1426,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "Mcss/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Mcss\\style.css"
     }
   ]
 }
