@@ -59,3 +59,4 @@ C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\scopedcss\bundle\Tc
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\scopedcss\projectbundle\Tcc.bundle.scp.css
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\Tcc.genruntimeconfig.cache
 C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\ref\Tcc.dll
+C:\Users\Bruno\Source\Repos\bbrunoo\TCC\Tcc\obj\Debug\net6.0\Tcc.csproj.AssemblyReference.cache

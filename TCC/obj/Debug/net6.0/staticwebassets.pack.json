@@ -105,6 +105,10 @@
       "PackagePath": "staticwebassets\\img\\sun.png"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\js\\miopia.js",
+      "PackagePath": "staticwebassets\\js\\miopia.js"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
