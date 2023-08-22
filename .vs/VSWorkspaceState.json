@@ -3,11 +3,10 @@
     "",
     "\\TCC",
     "\\TCC\\Views",
-    "\\TCC\\Views\\Home",
-    "\\TCC\\Views\\Shared",
+    "\\TCC\\Views\\Miopia",
     "\\TCC\\wwwroot",
     "\\TCC\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Tcc.sln",
+  "SelectedNode": "\\TCC\\Views\\Miopia\\Fase1.cshtml",
   "PreviewInSolutionExplorer": false
 }
