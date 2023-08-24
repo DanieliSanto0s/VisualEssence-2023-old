@@ -3,10 +3,14 @@
     "",
     "\\TCC",
     "\\TCC\\Views",
+    "\\TCC\\Views\\Home",
     "\\TCC\\Views\\Miopia",
+    "\\TCC\\Views\\Shared",
     "\\TCC\\wwwroot",
-    "\\TCC\\wwwroot\\css"
+    "\\TCC\\wwwroot\\js",
+    "\\TCC\\wwwroot\\js\\jsjogos",
+    "\\TCC\\wwwroot\\Mcss"
   ],
-  "SelectedNode": "\\TCC\\Views\\Miopia\\Fase1.cshtml",
+  "SelectedNode": "\\TCC\\Views\\Home\\Feedback.cshtml",
   "PreviewInSolutionExplorer": false
 }

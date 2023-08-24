@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
+      "PackagePath": "staticwebassets\\feedbackCss\\style.css"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl1.png",
       "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl1.png"
     },
@@ -103,6 +107,14 @@
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\sun.png",
       "PackagePath": "staticwebassets\\img\\sun.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase1.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase2.js"
     },
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\js\\miopia.js",

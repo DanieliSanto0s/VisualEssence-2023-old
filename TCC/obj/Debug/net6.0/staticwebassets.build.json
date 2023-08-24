@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SgMp0bc1Cl9nn05yGe39GLZEhaQqU//ZjpO1o3csArQ=",
+  "Hash": "JyKOgc1BWjgKJPaMlBjGV+uw8u/Z9hofntl/R2WU+18=",
   "Source": "Tcc",
   "BasePath": "_content/Tcc",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "feedbackCss/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\feedbackCss\\style.css"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
@@ -491,6 +508,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "jsMiopia/fase1.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsMiopia\\fase1.js"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "jsMiopia/fase2.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jsMiopia\\fase2.js"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
