@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\TCC",
-    "\\TCC\\Views",
-    "\\TCC\\Views\\Home",
-    "\\TCC\\Views\\Miopia",
-    "\\TCC\\Views\\Shared",
     "\\TCC\\wwwroot",
     "\\TCC\\wwwroot\\js",
-    "\\TCC\\wwwroot\\js\\jsjogos",
+    "\\TCC\\wwwroot\\jsMiopia",
     "\\TCC\\wwwroot\\Mcss"
   ],
-  "SelectedNode": "\\TCC\\Views\\Home\\Feedback.cshtml",
+  "SelectedNode": "\\Tcc.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -6,28 +6,32 @@ var btn5 = document.getElementById("btn5");
 var btn6 = document.getElementById("btn6");
 var btncerto = "btn4";
 var acertos = 0;
+var total = 0;
 
-function cbuttonF1(btn) {
+
+acertos = localStorage.getItem("acertos", acertos)
+console.log(acertos);
+
+
+
+function cbuttonF8(btn) {
 
     if (btn == btncerto) {
         acertos++;
 
-        console.log(acertos);
-
         acertos = localStorage.setItem("acertos", acertos)
+
+        console.log(acertos);
 
     }
 
     else {
-       
+
         console.log(acertos);
     }
 
 
 
-
-
 }
-
 
 

@@ -7,7 +7,13 @@ var btn6 = document.getElementById("btn6");
 var btncerto = "btn4";
 var acertos = 0;
 
-function cbuttonF1(btn) {
+
+acertos = localStorage.getItem("acertos", acertos)
+console.log(acertos);
+
+
+
+function cbuttonF4(btn) {
 
     if (btn == btncerto) {
         acertos++;
@@ -15,19 +21,25 @@ function cbuttonF1(btn) {
         console.log(acertos);
 
         acertos = localStorage.setItem("acertos", acertos)
-
     }
 
     else {
-       
+
         console.log(acertos);
     }
 
 
 
-
-
 }
+
+
+
+
+
+
+
+
+
 
 
 

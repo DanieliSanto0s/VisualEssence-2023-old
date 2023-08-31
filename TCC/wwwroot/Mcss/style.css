@@ -80,7 +80,7 @@
 
     }
 
-.b-button {
+.a-button {
     width: 7em;
     height: 4.5em;
     background-color: #514EEF;
@@ -92,17 +92,32 @@
     align-items: center;
     font-family: 'Holtwood One SC', serif;
     color: #ffffff;
-    transition: .3s;
+    transition: .3s ease;
     cursor: pointer;
 }
+.a-button:hover {
+    background-color: #1f1cd4;
+    transform: scale(1.1);
+    transition: .3s ease;
+}
 
-    .b-titulo h1 {
-        display: flex;
-        font-family: 'Holtwood One SC', serif;
-        color: #ffffff;
-        padding: 1em;
-        font-weight: 100;
+.m-botao {
+    transition: .3s ease;
+}
+
+    .m-botao:hover {
+        background-color: #1f1cd4;
+        transform: scale(1.1);
+        transition: .3s ease;
     }
+
+.b-titulo h1 {
+    display: flex;
+    font-family: 'Holtwood One SC', serif;
+    color: #ffffff;
+    padding: 1em;
+    font-weight: 100;
+}
 
     .b-img {
         width: 20em;

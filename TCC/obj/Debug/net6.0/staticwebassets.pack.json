@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Dcss\\style.css"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
+      "PackagePath": "staticwebassets\\Mcss\\mstyle.css"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
       "PackagePath": "staticwebassets\\Mcss\\style.css"
     },
@@ -63,6 +67,10 @@
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
       "PackagePath": "staticwebassets\\img\\crianca.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\crianças.png",
+      "PackagePath": "staticwebassets\\img\\crianças.png"
     },
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\daltonismo.png",
@@ -117,8 +125,28 @@
       "PackagePath": "staticwebassets\\jsMiopia\\fase2.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\js\\miopia.js",
-      "PackagePath": "staticwebassets\\js\\miopia.js"
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase3.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase3.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase4.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase4.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase5.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase5.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase6.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase6.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase7.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase7.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase8.js"
     },
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\js\\site.js",
