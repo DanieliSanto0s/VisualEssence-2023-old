@@ -7,7 +7,7 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Inter', sans-serif;
-    overflow-y:hidden;
+    overflow-y: hidden;
 }
 
 body {
@@ -62,7 +62,6 @@ body {
 
 .box-cima {
     text-align: justify;
-    font-family: 'Inter', sans-serif;
 }
 
 p {
@@ -74,13 +73,23 @@ p {
     width: 22em;
 }
 
-button{
-    background-color:transparent;
-    border:none;
+button {
+    background-color: transparent;
+    border: none;
+    transition: .3s ease;
 }
 
-.box-baixo{
-    justify-content:end;
-    align-items:flex-end;
-    background-color:red;
+.box-baixo button:hover {
+    transform: scale(1.1);
+    transition: .3s ease;
+}
+
+.box-baixo {
+    display:flex;
+    flex-direction:row;
+    gap:1em;
+    align-items: flex-end;
+    padding:.5em;
+    gap:20px;
+    transition: .3s ease;
 }
