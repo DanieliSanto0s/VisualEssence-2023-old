@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qaw1zOANcxyqGHpmR65EYTAY7EPJp8b5T/2eIoc4qGU=",
+  "Hash": "QtlYKcgoOKA6MVChnLfCS2MoC0AHRpkwPE2PrXzmb80=",
   "Source": "Tcc",
   "BasePath": "_content/Tcc",
   "Mode": "Default",
@@ -202,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\grafico.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/home-b.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\home-b.png"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\leave.png",
@@ -425,6 +442,23 @@
       "OriginalItemSpec": "wwwroot\\img\\moon.png"
     },
     {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\parque.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/parque.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\parque.png"
+    },
+    {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
@@ -440,6 +474,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\perfil.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\plank.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/plank.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\plank.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\play.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/play.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\play.png"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\playground.png",

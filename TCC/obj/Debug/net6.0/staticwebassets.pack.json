@@ -81,6 +81,10 @@
       "PackagePath": "staticwebassets\\img\\grafico.jpg"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
+      "PackagePath": "staticwebassets\\img\\home-b.png"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\leave.png",
       "PackagePath": "staticwebassets\\img\\leave.png"
     },
@@ -101,8 +105,20 @@
       "PackagePath": "staticwebassets\\img\\moon.png"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\parque.png",
+      "PackagePath": "staticwebassets\\img\\parque.png"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
       "PackagePath": "staticwebassets\\img\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\plank.png",
+      "PackagePath": "staticwebassets\\img\\plank.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\play.png",
+      "PackagePath": "staticwebassets\\img\\play.png"
     },
     {
       "Id": "C:\\Users\\Bruno\\Source\\Repos\\bbrunoo\\TCC\\Tcc\\wwwroot\\img\\playground.png",
