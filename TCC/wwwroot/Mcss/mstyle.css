@@ -64,22 +64,28 @@ body {
     text-align: justify;
 }
 
+.p-titulo {
+    width:fit-content;
+    font-size:2em;
+}
 p {
     color: #FFEDCA;
     text-align: center;
-    font-size: 1em;
+    font-size: 1.2em;
     font-style: normal;
-    font-weight: 400;
-    width: 22em;
+    font-weight: 600;
+    height:auto;
+    width: 18em;
+    font-family: 'Inter', sans-serif;
 }
 
-button {
+a {
     background-color: transparent;
     border: none;
     transition: .3s ease;
 }
 
-.box-baixo button:hover {
+.box-baixo a:hover {
     transform: scale(1.1);
     transition: .3s ease;
 }
