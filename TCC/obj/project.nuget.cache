@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PzS2T1ilkVEVay84v1KkUUmDCXs8/1w8CGncRlHN9pi3BVjLisCez137BJm13/gc/C1Ktid7729F/8eFkIkgA==",
+  "dgSpecHash": "cPrC1++F+LLsAY/UQAOdoKFL2NcKDbE1PHOijKMrVTtFowrZlBNUdaEJgHXaVyd5j6LKQT4ue2rp6LbiKmAp5Q==",
   "success": true,
-  "projectFilePath": "C:\\tccpasta\\TCC\\Tcc\\Tcc.csproj",
+  "projectFilePath": "D:\\Documentos\\TCCAR\\TCC\\Tcc\\Tcc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
