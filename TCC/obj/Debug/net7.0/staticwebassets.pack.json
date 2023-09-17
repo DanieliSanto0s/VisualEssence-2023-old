@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tcc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
+      "PackagePath": "staticwebassets\\Acss\\style.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
+      "PackagePath": "staticwebassets\\Dcss\\style.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
+      "PackagePath": "staticwebassets\\Mcss\\mstyle.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
+      "PackagePath": "staticwebassets\\Mcss\\style.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
+      "PackagePath": "staticwebassets\\feedbackCss\\style.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl1.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl1.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl2.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl2.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl3.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl3.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl4.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl4.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl5.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl5.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl6.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl6.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl7.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl7.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\lvl8.png",
+      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\lvl8.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
+      "PackagePath": "staticwebassets\\img\\crianca.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\crianças.png",
+      "PackagePath": "staticwebassets\\img\\crianças.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\daltonismo.png",
+      "PackagePath": "staticwebassets\\img\\daltonismo.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\grafico.jpg",
+      "PackagePath": "staticwebassets\\img\\grafico.jpg"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
+      "PackagePath": "staticwebassets\\img\\home-b.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\leave.png",
+      "PackagePath": "staticwebassets\\img\\leave.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\logout.png",
+      "PackagePath": "staticwebassets\\img\\logout.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\miopia.png",
+      "PackagePath": "staticwebassets\\img\\miopia.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\moon.png",
+      "PackagePath": "staticwebassets\\img\\moon.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\parque.png",
+      "PackagePath": "staticwebassets\\img\\parque.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
+      "PackagePath": "staticwebassets\\img\\perfil.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\plank.png",
+      "PackagePath": "staticwebassets\\img\\plank.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\play.png",
+      "PackagePath": "staticwebassets\\img\\play.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\playground.png",
+      "PackagePath": "staticwebassets\\img\\playground.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\playground2.png",
+      "PackagePath": "staticwebassets\\img\\playground2.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\sun.png",
+      "PackagePath": "staticwebassets\\img\\sun.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\img\\telafundo.png",
+      "PackagePath": "staticwebassets\\img\\telafundo.png"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase1.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase2.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase3.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase3.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase4.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase4.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase5.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase5.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase6.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase6.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase7.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase7.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\fase8.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\tccpasta\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tcc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tcc.props",
+      "PackagePath": "build\\Tcc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tcc.props",
+      "PackagePath": "buildMultiTargeting\\Tcc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tcc.props",
+      "PackagePath": "buildTransitive\\Tcc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

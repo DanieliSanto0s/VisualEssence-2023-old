@@ -34,10 +34,6 @@ namespace Tcc.Controllers
         {
             return View();
         } 
-        public IActionResult AstigmatismoGame()
-        {
-            return View();
-        }
         public IActionResult Feedback()
         {
             return View();

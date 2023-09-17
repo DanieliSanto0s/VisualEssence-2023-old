@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tcc
+build_property.RootNamespace = Tcc
+build_property.ProjectDir = C:\tccpasta\TCC\Tcc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\tccpasta\TCC\Tcc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/tccpasta/TCC/TCC/Views/Cadastro/cadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cY2FkYXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Doacao/Doacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hY2FvXERvYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Feedback/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRmVlZGJhY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Home/DaltonismoGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYWx0b25pc21vR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Home/MiopiaGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaW9waWFHYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Login/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Miopia/Fase8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Perfil/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsXFBlcmZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccpasta/TCC/TCC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9rrsv4y27b

@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\TCC",
-    "\\TCC\\wwwroot"
+    "\\TCC\\wwwroot\\jsMiopia"
   ],
-  "SelectedNode": "\\Tcc.sln",
+  "SelectedNode": "\\TCC\\Tcc.csproj",
   "PreviewInSolutionExplorer": false
 }

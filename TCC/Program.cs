@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using Tcc.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//builder.Services.AddDbContext<BancoDados>(options => options.UseSqlServer("DefaultConnection"));
 
 var app = builder.Build();
 
