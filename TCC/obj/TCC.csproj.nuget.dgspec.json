@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\TCCAR\\TCC\\Tcc\\Tcc.csproj": {}
+    "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\TCCAR\\TCC\\Tcc\\Tcc.csproj": {
+    "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\TCCAR\\TCC\\Tcc\\Tcc.csproj",
+        "projectUniqueName": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj",
         "projectName": "Tcc",
-        "projectPath": "D:\\Documentos\\TCCAR\\TCC\\Tcc\\Tcc.csproj",
+        "projectPath": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\TCCAR\\TCC\\Tcc\\obj\\",
+        "outputPath": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

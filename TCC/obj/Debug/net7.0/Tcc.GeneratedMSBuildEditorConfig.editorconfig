@@ -9,93 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tcc
 build_property.RootNamespace = Tcc
-build_property.ProjectDir = D:\Documentos\TCCAR\TCC\Tcc\
+build_property.ProjectDir = C:\tccpasta\bbrunoo\TCC2\Tcc\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documentos\TCCAR\TCC\Tcc
+build_property.MSBuildProjectDirectory = C:\tccpasta\bbrunoo\TCC2\Tcc
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Cadastro/cadastro.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Cadastro/cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cY2FkYXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Doacao/Doacao.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Doacao/Doacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hY2FvXERvYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Feedback/Feedback.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Feedback/Feedback.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRmVlZGJhY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Home/DaltonismoGame.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Home/DaltonismoGame.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYWx0b25pc21vR2FtZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Home/Index.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Home/MiopiaGame.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Home/MiopiaGame.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaW9waWFHYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Login/login.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Login/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase1.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase2.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase3.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase4.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase5.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase5.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase6.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase6.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase7.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase7.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Miopia/Fase8.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Miopia/Fase8.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Perfil/Perfil.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Perfil/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsXFBlcmZpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Shared/Error.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/_ViewImports.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/_ViewStart.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documentos/TCCAR/TCC/TCC/Views/Shared/_Layout.cshtml]
+[C:/tccpasta/bbrunoo/TCC2/Tcc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9rrsv4y27b
