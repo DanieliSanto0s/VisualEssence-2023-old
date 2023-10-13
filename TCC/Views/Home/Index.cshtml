@@ -1,8 +1,12 @@
-﻿@{
+﻿
+@model Tcc.Models.Feedback
+@{
     ViewData["Title"] = "Home Page";
 
     Layout = null;
+
 }
+
 <!DOCTYPE html>
 
 <html>
@@ -14,11 +18,13 @@
 
 <body>
     <header>
+
+            
         <nav class="menu">
 
             <ul  class='ul-img'>
 
-                    <img class="logo" src="img/logo.png" id="sobre"> 
+                    <img class="logo" src="~/img/logo.png" id="sobre"> 
 
 
                 <div class='ul-cont'>
@@ -27,35 +33,46 @@
                     <a class='cont-item' href="#ongs">ONG</a>
                     <a class='cont-item' href="#jogos">JOGOS</a>
                     <a class='cont-item' href="#contato">CONTATO</a>
-                    <a class='cont-item' href="~/Feedback/Feedback">Feedback</a>
+
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a href="/Feedback/Feedback">Feedback</a>
+                    }
+
                     <i class="bi bi-moon" id="toggleDark"></i>
 
-                </div>
+                </div>  
 
 
                 <div class='ul-Perfil'>
                     <a href="~/Perfil/Perfil">
 
-                        <img class='ul_imgPerfil' src="img/perfil.png">  
+                        <img class='ul_imgPerfil' src="~/img/perfil.png">  
                     
                     </a>
                    
                 </div>
 
-                <div class='ul-logout'>
 
-                    <a> <img src="/img/logout.png">  </a>
+               <div class='ul-logout'>
 
+                    <a asp-controller="Conta" class="btn btn-link" asp-action="Login"><img src="/img/logout.png"></a>
+
+                    
                 </div>
+
 
             </ul>
         </nav>
+        
     </header>
 
 
     <main>
 
         <section id="sobre" class='secSobre'>
+
+       
 
             <div class='Container'>
 
@@ -76,12 +93,10 @@
                             </div>
 
                             <div class='sob-Texto'>
-                                Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                perferendis id dolores perspiciatis. Est quia dicta et assumenda natus et odio blanditiis aut quas magnam. Et sint magnam et nihil culpa
-                                eos nobis dicta aut exercitationem ipsa ut quae voluptatem ad voluptatum voluptate. Nam deleniti provident qui nostrum voluptatem et odit distinctio eos obcaecati sint rem aliquid consectetur et odio voluptatem.
-                                Ex cupiditate nemo et labore placeat At soluta illum quo galisum odit et tempore voluptas. Et aliquid rerum quo quod quae qui veritatis dignissimos.
-                                Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                perferendis id dolores perspiciatis. Est quia dicta et assumenda natus et odio blanditiis aut quas magnam.
+                                Esse projeto tem como finalidade proporcionar uma melhor qualidade de vida para as crianças que enfrentam no seu dia a dia as dificuldades causadas pela baixa visão.
+                                No decorrer do website será apresentado de forma minuciosa e divertida uma possível ajuda, que poderá auxiliar os pais ou responsáveis a obter uma direção por meio de jogos simples e dinâmicos, para posteriormente analisar se estas crianças precisam recorrer a um especialista.
+                                Devido a isso, os alunos do grupo Brilliant Minds do curso Técnico em Desenvolvimento de Sistemas - AMS dedicam esse projeto a todas as crianças e responsáveis que encaram esse problema e necessitam de auxílio e apoio.
+
                             </div>
                         </div>
 
@@ -97,7 +112,7 @@
                 <div class='c_Conteudo'>
 
                     <div class='c_doe_grafico'>
-                        <img src="img/grafico.jpg">
+                        <img src="~/img/grafico.jpg">
                     </div>
 
 
@@ -108,11 +123,10 @@
                         </div>
 
                         <div class='c_doInf_Texto'>
-                            Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis perferendis id dolores perspiciatis.
-                            Est quia dicta et assumenda natus et odio blanditiis aut quas magnam.
-                            Et sint magnam et nihil culpa eos nobis dicta aut exercitationem ipsa ut quae voluptatem ad voluptatum voluptate.
-                            Nam deleniti provident qui nostrum voluptatem et odit distinctio eos obcaecati sint rem aliquid consectetur et odio voluptatem.
-                            Ex cupiditate nemo et labore placeat At soluta illum quo galisum odit et tempore voluptas. Et aliquid rerum quo quod quae qui veritatis
+                            Segundo o Conselho Brasileiro de Oftalmologia, estima-se que no Brasil, 30 mil crianças estão cegas por doenças oculares que poderiam ser tratadas precocemente e outras 140 mil são portadoras de baixa visão, e ainda segundo a Dra. Marcela Barreira, os erros refrativos são responsáveis por 43% ou mais dos casos de cegueira ou baixa visão na infância.
+                            O levantamento realizado pelo CBO, diz que aproximadamente 20% das crianças em idade escolar apresentam distúrbios oftalmológicos, em decorrência de erros refracionais não corrigidos.
+                            Ao fazer doações, o usuário se torna um contribuidor para ações médicas a longo prazo em saúde, educação e no desenvolvimento infantil, garantindo uma boa qualidade de vida para as crianças.
+
                         </div>
 
                         <div class='c_doInf_Botao'>
@@ -156,7 +170,7 @@
                                     <div class='op-botao'>
                                         <a href="~/Home/MiopiaGame">
 
-                                        <img class="imgJogo" src="img/miopia.png" > 
+                                        <img class="imgJogo" src="~/img/miopia.png" > 
 
                                         </a>
                                     </div>
@@ -165,9 +179,9 @@
                                 <div class='op-Texto'>
                                     <p>
 
-                                    Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                    perferendis id dolores perspiciatis.Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                    perferendis id dolores perspiciatis.
+                                        A miopia é o distúrbio visual que acarreta uma focalização da imagem antes dessa chegar à retina.
+                                        Uma pessoa míope consegue ver objetos próximos com nitidez,
+                                        mas os distantes são visualizados como se estivessem embaçados (desfocados).
 
                                     </p>
                                 </div>
@@ -190,32 +204,8 @@
                                 </div>
 
                                 <div class='op-Texto'>
-                                    Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                    perferendis id dolores perspiciatis.Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                    perferendis id dolores perspiciatis.
-                                </div>
-
-                            </div>
-
-                            <div class='cont_jogos-c-op-3-cont'>
-
-                                <div class='op-cx-op-C'>
-                                    <div class='op-titulo'>
-                                        <h3>ASTIGMATISMO</h3>
-                                    </div>
-                                    <div class='op-botao'>
-                                        <a href="~/Home/MiopiaGame">
-
-                                            <img class="imgJogo" src="~/img/daltonismo.png"> 
-
-                                        </a>
-                                    </div>
-                                </div>
-
-                                <div class='op-Texto'>
-                                    Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                    perferendis id dolores perspiciatis.Lorem ipsum dolor sit amet. Aut totam rerum eos temporibus nostrum est quas magni ex quia quidem aut facilis
-                                    perferendis id dolores perspiciatis.
+                                    O daltonismo é um distúrbio da visão em que a pessoa tem dificuldade ou incapacidade de distinguir algumas cores, principalmente verde e vermelho. Essa alteração é na maioria dos casos genética,
+                                    porém pode surgir através de lesões nos olhos ou nos neurônios responsáveis pela visão.
                                 </div>
 
                             </div>
@@ -244,26 +234,25 @@
                     </div>
 
                     <div class='box-contato'>
-                        <form class='cont-form'>
+
+                        <form asp-controller="Home" asp-action="EnviarFeedback" method="post" class='cont-form'>
 
                             <span class='info-area'>
 
                                 <div class='info-cont'>
-
-                                    <input class='box-nome' type='text' placeholder='Nome'></input>
-                                    <input class='box-email' type='text' placeholder='Email'></input>
-                                    <input class='box-assunto' type='text' placeholder='Assunto'></input>
-                                    <input class='box-submit' type='submit' placeholder='Enviar'></input>
+                                        
+                                        <input asp-for="NomeUs" class='box-nome' type='text' placeholder='Nome' required />
+                                        <input asp-for="Email" class='box-email' type='text' placeholder='Email' required />
+                                        <input asp-for="Assunto" class='box-assunto' type='text' placeholder='Assunto' required />
+                                        <input class='box-submit' type='submit' placeholder='Enviar' />
 
                                 </div>
 
                             </span>
 
-                            <span class='txt-area'>
-                                <textarea class='box-desc' cols=60 type='text' placeholder='Descrição'></textarea>
-
-                            </span>
-
+                                <span class='txt-area'>
+                                    <textarea asp-for="Descricao" class='box-desc' cols=60 type='text' placeholder='Descrição' required></textarea>
+                                </span>
 
                         </form>
                     </div>
@@ -279,4 +268,5 @@
 </body>
 
 <script src="~/js/site.js"></script>
+
 </html>

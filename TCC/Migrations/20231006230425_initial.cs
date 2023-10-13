@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Tcc.Migrations
 {
     /// <inheritdoc />
-    public partial class Inicial : Migration
+    public partial class initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Criancas",
+                name: "Crianca",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -22,11 +22,11 @@ namespace Tcc.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Criancas", x => x.Id);
+                    table.PrimaryKey("PK_Crianca", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Feedbacks",
+                name: "Feedback",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -34,15 +34,15 @@ namespace Tcc.Migrations
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Assunto = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Descricao = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    IdUsuario = table.Column<int>(type: "int", nullable: false)
+                    DataEnvio = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Feedbacks", x => x.Id);
+                    table.PrimaryKey("PK_Feedback", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Jogadas",
+                name: "Jogada",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -53,11 +53,11 @@ namespace Tcc.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Jogadas", x => x.Id);
+                    table.PrimaryKey("PK_Jogada", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Jogos",
+                name: "Jogo",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -65,22 +65,23 @@ namespace Tcc.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Jogos", x => x.Id);
+                    table.PrimaryKey("PK_Jogo", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
-                name: "Usuarios",
+                name: "Usuario",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    NomeResp = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Senha = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    NomeResp = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Senha = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    IsAdmin = table.Column<bool>(type: "bit", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Usuarios", x => x.Id);
+                    table.PrimaryKey("PK_Usuario", x => x.Id);
                 });
         }
 
@@ -88,19 +89,19 @@ namespace Tcc.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Criancas");
+                name: "Crianca");
 
             migrationBuilder.DropTable(
-                name: "Feedbacks");
+                name: "Feedback");
 
             migrationBuilder.DropTable(
-                name: "Jogadas");
+                name: "Jogada");
 
             migrationBuilder.DropTable(
-                name: "Jogos");
+                name: "Jogo");
 
             migrationBuilder.DropTable(
-                name: "Usuarios");
+                name: "Usuario");
         }
     }
 }

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TCC",
+    "\\TCC\\Controllers"
   ],
-  "SelectedNode": "\\Tcc.sln",
   "PreviewInSolutionExplorer": false
 }

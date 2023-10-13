@@ -1,0 +1,87 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Love+Ya+Like+A+Sister&display=swap');
+
+img {
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.10) 0%, rgba(0, 0, 0, 0.10) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-right: 350px;
+    border-radius: 1%;
+    position: relative;
+}
+
+.img {
+    position: relative;
+}
+
+.txt {
+    width: 322px;
+    height: 37px;
+    color: #000;
+    font-family: Love Ya Like A Sister;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+input {
+    width: 360px;
+    height: 40px;
+    border-radius: 15px;
+    background: rgba(0, 151, 255, 0.45);
+    border: none;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    align-items: center;
+}
+
+p {
+    color: #000000;
+    font-family: Lexend;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 60px;
+    height: 19px;
+    margin-left: 1%;
+    display: inline;
+}
+
+span {
+    width: 84px;
+    height: 26px;
+    color: #000;
+    font-family: Lexend;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 3%;
+    margin-right: 50%;
+}
+
+a {
+    margin-bottom: 3%;
+}
+
+.button {
+    width: 178px;
+    height: 49px;
+    border-radius: 20px;
+    background: #FFC5C4;
+    border: none;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.modal-body2 {
+    position: relative;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 600px;
+    border-radius: 4%;
+    align-items: center;
+}

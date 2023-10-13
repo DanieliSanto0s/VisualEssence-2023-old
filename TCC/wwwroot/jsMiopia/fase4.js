@@ -4,7 +4,7 @@ var btn3 = document.getElementById("btn3");
 var btn4 = document.getElementById("btn4");
 var btn5 = document.getElementById("btn5");
 var btn6 = document.getElementById("btn6");
-var btncerto = "btn4";
+var btncerto = "btn5";
 var acertos = 0;
 
 

@@ -1,4 +1,5 @@
-﻿namespace Tcc.Models
+﻿
+namespace Tcc.Models
 {
     public class Feedback
     {
@@ -7,6 +8,6 @@
         public string? Email { get; set; }
         public string? Assunto { get; set; }
         public string? Descricao { get; set; }
-        public int IdUsuario { get; set;}
+        public DateTime DataEnvio { get; set;  } = DateTime.Now;  
     }
 }

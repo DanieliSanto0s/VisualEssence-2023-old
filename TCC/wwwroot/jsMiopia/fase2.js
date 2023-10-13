@@ -4,8 +4,9 @@ var btn3 = document.getElementById("btn3");
 var btn4 = document.getElementById("btn4");
 var btn5 = document.getElementById("btn5");
 var btn6 = document.getElementById("btn6");
-var btncerto = "btn4";
+var btncerto = "btn2";
 var acertos = 0;
+var erros = 0;
 
 
 acertos = localStorage.getItem("acertos", acertos)
@@ -24,6 +25,7 @@ function cbuttonF2(btn) {
     }
 
     else {
+    
 
         console.log(acertos);
     }

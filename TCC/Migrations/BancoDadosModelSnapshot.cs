@@ -39,7 +39,7 @@ namespace Tcc.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Criancas");
+                    b.ToTable("Crianca");
                 });
 
             modelBuilder.Entity("Tcc.Models.Feedback", b =>
@@ -51,21 +51,21 @@ namespace Tcc.Migrations
                     b.Property<string>("Assunto")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("DataEnvio")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Descricao")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("IdUsuario")
-                        .HasColumnType("int");
-
                     b.Property<string>("NomeUs")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Feedbacks");
+                    b.ToTable("Feedback");
                 });
 
             modelBuilder.Entity("Tcc.Models.Jogada", b =>
@@ -88,7 +88,7 @@ namespace Tcc.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Jogadas");
+                    b.ToTable("Jogada");
                 });
 
             modelBuilder.Entity("Tcc.Models.Jogo", b =>
@@ -102,7 +102,7 @@ namespace Tcc.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Jogos");
+                    b.ToTable("Jogo");
                 });
 
             modelBuilder.Entity("Tcc.Models.Usuario", b =>
@@ -114,17 +114,23 @@ namespace Tcc.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Email")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<bool>("IsAdmin")
+                        .HasColumnType("bit");
+
                     b.Property<string>("NomeResp")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Senha")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Usuarios");
+                    b.ToTable("Usuario");
                 });
 #pragma warning restore 612, 618
         }

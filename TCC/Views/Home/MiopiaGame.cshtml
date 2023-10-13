@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     <!DOCTYPE html>
 
     <html>
@@ -10,9 +9,23 @@
 
     <body>
     
+            <!-- Trigger/Open The Modal -->
+            <button id="myBtn">Open Modal</button>
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+
+                <!-- Modal content -->
+                <div class="modal-content">
+
+                    <span class="close">&times;</span>
+                    <p>Some text in the Modal..</p>
+                </div>
+
+            </div>
 
     <div class="container">
-        
+
         <div class="content">
     
                 <div class="parte-1">
@@ -33,7 +46,7 @@
                     </div>
 
                     <div class="box-baixo">
-                        <a href="~/Home">
+                        <a href="~/Home/Index">
                             <img src="/img/home-b.png" width="80" height="80">
                         </a>
 
@@ -45,6 +58,8 @@
                 </div>
         </div>
     </div>
+
+        <script src="~/js/RegistroMiopia.js"></script>
     </body> 
     </html>
 }

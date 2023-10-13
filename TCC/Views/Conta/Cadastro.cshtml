@@ -1,0 +1,49 @@
+﻿@model Tcc.Models.Usuario
+
+<head>
+    <link rel="stylesheet" href="~/css/login.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" />
+</head>
+
+    <div class="conteudo">
+        <div class="form-box login">
+            <div class="head-form">
+                <img src="~/img/logo.png" /> <h2>Cadastrar</h2>
+            </div>
+
+            <form asp-action="Cadastro" method="post">
+
+                <div class="input-box">
+                    <label>Nome</label>
+                    <input asp-for="NomeResp" type="text" />
+                </div>
+
+                <div class="input-box">
+                    <label>Email</label>
+                <input asp-for="Email" type="email" id="Email"/>
+                </div>
+
+                <div class="input-box">
+                    <label>Senha</label>
+                <input asp-for="Senha" type="password" id="senha" />
+                <span class="bi bi-eye-slash" id="iconesenha"> </span>
+                </div>
+
+                <div class="esc-senha">
+                    <a href="#">Esqueceu a senha?</a>
+                </div>
+
+                <div class="submit-btn">
+                    <button type="submit" class="btn">Cadastrar</button>
+                </div>
+
+                <div class="login-register">
+
+                    <p>Já possui uma conta? <a href="~/Conta/Login">Entrar</a> </p>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+<script src="~/js/loginregister.js"></script>

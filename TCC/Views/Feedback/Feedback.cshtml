@@ -1,64 +1,87 @@
-﻿@{
+﻿@model List<Tcc.Models.Feedback>
+
+
+
     <!DOCTYPE html>
-    <html lang="pt-br">
+    <html>
 
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Tela de contato dos programadorres</title>
-        <link rel="stylesheet" href="~/feedbackCss/style.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/feedbackCss/style.css">
+        <title>Feedback</title>
     </head>
 
     <body>
+    
+        <header>
+        
+            <nav>
+                <ul>
+                    <li class="homeImg">
+                        <div class="backHome">
+                        <a href="~/Home/Index">
+                            <img src="~/img/home.png" width="75" height="75">
+                            </a>
 
-<header>
-    <nav class="nav-link">
-        <ul>
-            <li>
-                <a href="~/Home">Home</a>
-            </li>
-        </ul>
-    </nav>
-</header>
-        <div class="container">
+                            Voltar
+                        </div>
+                    </li>
 
-            <div class="content">
-                Nome:
-                <p> texto
-                </p>
-                <br>
-                E-mail:
-                <p>texto
-                </p>
-                <br>
-                Asssunto:
-                <p>texto
-                </p>
-                <br>
-                Descrição:
-                <br><br>
-                <div class="descricao">
-                    <p>texto
-                    </p>
-                    <br>
-                </div>
+                    <li><img src="~/img/logo.png" width="130" height="130" alt=""></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="container">
+                @foreach (var feedback in Model)
+                {
+                    <div class="feedbackCont">
+
+                        <div class="contUp">
+                            <label>Data:</label>
+                            <p>@feedback.DataEnvio</p>
+                        </div>
+
+                    
+                    <div class="contCenter">
+
+                            <div class="content">
+                                <label>Nome:</label>
+                                    <p>@feedback.NomeUs</p>
+                                <br>
+
+                            </div>
+
+                            <div class="content">
+
+                                <label>Email:</label>
+                                    <p>@feedback.Email</p>
+                                <br>
+
+                            </div>
+
+
+                            <div class="content">
+
+                                <label>Assunto:</label>
+                                    <p>@feedback.Assunto</p>
+                                <br>
+
+                            </div>
+
+                            <div class="content">
+
+                                <label>Descrição:</label>
+                                    <p>@feedback.Descricao</p>
+                                <br>
+                            </div>
+
+                        </div>
+                    </div>
+                    }
             </div>
-
-
-
-
-
-
-            <div class="botoes">
-                <button class="button" type="button"> Voltar </button>
-                <button class="button" type="button">Próximo</button>
-
-
-            </div>
-
-        </div>
-
+        </main>
     </body>
-
-    </html>
-}
+  </html>

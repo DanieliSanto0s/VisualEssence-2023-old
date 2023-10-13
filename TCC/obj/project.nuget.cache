@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Nw5eu9BBatmS13NUiGvrse3ynui6wIvoYr8njv8Kjv3vu4qGYJh/5TcmFpkIdey4v1f/wsoIEuS198IIhd1WnA==",
+  "dgSpecHash": "dE2y1bQKlB8ALN+kz7vYjGcPOKuL0Dg8N+TaOAUq4e+2W2EzkN6ehn/KZZWbPU4/REt7FJQaVKqn/4U1BWz6lg==",
   "success": true,
-  "projectFilePath": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj",
+  "projectFilePath": "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

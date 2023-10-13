@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('site.css');
 
 @media only screen and (max-width: 1400px) {
     header nav ul {
@@ -6,6 +7,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        justify-content:space-around;
     }
 
 
@@ -49,7 +51,6 @@
     }
 
         section.secJogos .jogos-conteudo img {
-            background-color: green;
             width: 5em;
             height: 5em;
         }
@@ -61,7 +62,6 @@
             section.secJogos .cont_jogos-titulo {
                 height:0;
                 width:0;
-                background-color: gray;
             }
 
     section.secContato {
@@ -147,6 +147,7 @@ body {
 
 }
 
+
 header {
     position: fixed;
     width: 100%;
@@ -157,9 +158,8 @@ header {
     header ul {
         display: flex;
         width: 100%;
-        flex-direction: row;
         align-items: center;
-        justify-content: space-around;
+        justify-content: space-evenly;
         color: white;
         background-image: linear-gradient(360deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.452));
         margin: 0;
@@ -270,11 +270,12 @@ div.sec-Sobre {
 }
 
 div.sob-Titulo {
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
 div.sob-Texto {
-    font-size: 1.5em;
+    font-size: 1.65em;
+    line-height:1.4em;
 }
 
 div.sob-cont {
@@ -313,9 +314,9 @@ div.contDoe {
 div.c_Conteudo {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    gap: 1.5em;
+    width:100%;
     padding: 2em;
 }
 
@@ -325,7 +326,7 @@ div.c_doe_grafico img {
 
 
 div.c_doInfTitulo {
-    font-size: 1em;
+    font-size: 1.4em;
 }
 
 div.c_doInf_Texto {
@@ -401,14 +402,14 @@ div.cont_jogos-cont {
 div.cont_jogos_caixa-op {
     display: flex;
     flex-direction: column;
+    
 }
 
 div.cont_jogos-c-op-1-cont {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items:end;
     justify-content: center;
-    gap: 4em;
     padding: 1em;
 }
 
@@ -418,7 +419,8 @@ div.op-cx-op-A {
     align-items: center;
     justify-content: center;
     padding: .5em;
-    gap: .5em;
+    width:8em;
+    height:auto;
 }
 
 div.op-titulo {
@@ -438,7 +440,6 @@ div.op-botao img {
 div.op-botao img :hover{
     border-radius: 2em;
     transition: .3s;
-    background-color:brown;
 }
 
 div.op-Texto {
@@ -447,18 +448,19 @@ div.op-Texto {
     text-align: center;
     height: auto;
     padding: .3em;
-    width: 55vh;
-    font-size: 1em;
+    width: 60vh;
+    font-size: 1.15em;
+    
+    
 }
 
 /*---------op2----------*/
 
 div.cont_jogos-c-op-2-cont {
-    display: flex;
+     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items:end;
     justify-content: center;
-    gap: 4em;
     padding: 1em;
 }
 
@@ -468,7 +470,8 @@ div.op-cx-op-B {
     align-items: center;
     justify-content: center;
     padding: .5em;
-    gap: .5em;
+    width: 8em;
+    height: auto;
 }
 
 div.op-B-titulo {
@@ -500,53 +503,6 @@ div.op-B-Texto {
     font-size: 1.3em;
 }
 
-/*----------------------*/
-div.cont_jogos-c-op-3-cont {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 4em;
-    padding: 1em;
-}
-
-div.op-cx-op-C {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: .5em;
-    gap: .5em;
-}
-
-div.op-C-titulo {
-    font-size: 22px;
-    font-weight: 400;
-    font-family: 'Inter', sans-serif;
-}
-
-div.op-C-botao img {
-    border-radius: 2em;
-    transition: .3s;
-    cursor: pointer;
-    width: 15em;
-    height: 15em;
-}
-
-div.op-C-botao :hover {
-    border-radius: 1em;
-    transition: .3s;
-}
-
-div.op-C-Texto {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    height: auto;
-    padding: .3em;
-    width: 55vh;
-    font-size: 1.3em;
-}
 
 /*----------------------------------*/
 

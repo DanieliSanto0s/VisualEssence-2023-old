@@ -9,5 +9,8 @@ namespace Tcc.Models
         public int PontuacaoJogo { get; set; }
         public int IdCrianca { get; set; }
         public int IdJogo { get; set; }
+
+
+ 
     }
 }

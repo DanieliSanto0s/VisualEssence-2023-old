@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj": {}
+    "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj": {}
   },
   "projects": {
-    "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj": {
+    "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj",
+        "projectUniqueName": "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj",
         "projectName": "Tcc",
-        "projectPath": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\Tcc.csproj",
+        "projectPath": "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\tccpasta\\bbrunoo\\TCC2\\Tcc\\obj\\",
+        "outputPath": "C:\\tccarchive\\TCC\\Tcc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.11, )"
@@ -80,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

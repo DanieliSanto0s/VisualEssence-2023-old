@@ -1,42 +1,74 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using Tcc.Context;
 using Tcc.Models;
 
 namespace Tcc.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
+
+        private readonly BancoDados _context;
+
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, BancoDados context) 
         {
+            _context = context;
             _logger = logger;
         }
+
+ 
 
         public IActionResult Index()
         {
             return View();
         }
 
+ 
+
         public IActionResult Perfil()
         {
             return View();
         }
+
+ 
+
         public IActionResult Doacao()
         {
             return View();
         }
+
+ 
+
         public IActionResult DaltonismoGame()
         {
             return View();
         }
+
+ 
+
         public IActionResult MiopiaGame()
         {
             return View();
-        } 
-        public IActionResult Feedback()
+        }
+
+        [HttpPost]
+        public IActionResult EnviarFeedback(Feedback feedback)
         {
-            return View();
+
+
+            if (ModelState.IsValid)
+            {
+                _context.Feedback.Add(feedback);
+                _context.SaveChanges();
+                return RedirectToAction("Index", "Home");
+            }
+
+            return View("Index", feedback);
         }
 
 
