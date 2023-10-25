@@ -11,13 +11,3 @@
         iconeSenha.classList.add(iconClass);
     });
 });
-
-document.addEventListener('DOMContentLoaded', function () {
-    const emailInput = document.getElementById('Email'); // Supondo que o id do campo de email seja 'Email'
-
-    emailInput.addEventListener('input', function () {
-        if (this.classList.contains('field-with-error')) {
-            this.classList.remove('field-with-error');
-        }
-    });
-});

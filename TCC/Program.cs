@@ -11,6 +11,8 @@ using Microsoft.AspNetCore.Authorization;
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
 
+services.AddDistributedMemoryCache();
+
 services.AddControllersWithViews();
 
 services.Configure<CookiePolicyOptions>(options =>
@@ -23,8 +25,8 @@ services.Configure<CookiePolicyOptions>(options =>
 services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
         .AddCookie(options =>
         {
-            options.Cookie.Name = "UserCookie";
-            options.ExpireTimeSpan = TimeSpan.FromMinutes(30); // Defina o tempo de expiração do cookie conforme necessário
+            options.Cookie.Name = "UsuarioLogado";
+            options.ExpireTimeSpan = TimeSpan.FromMinutes(20); // Defina o tempo de expiração do cookie conforme necessário
             options.LoginPath = "/Conta/Login";
 
         });
@@ -36,6 +38,14 @@ services.AddAuthorization(options =>
 
 builder.Services.AddDbContext<BancoDados>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+builder.Services.AddDistributedMemoryCache();
+
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromSeconds(10);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 var app = builder.Build();
 
@@ -52,6 +62,7 @@ app.UseRouting();
 app.UseAuthentication(); 
 app.UseAuthorization();
 
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",

@@ -24,14 +24,16 @@ namespace Tcc.Migrations
 
             modelBuilder.Entity("Tcc.Models.Crianca", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
 
-                    b.Property<DateTime>("DataNasc")
-                        .HasColumnType("datetime2");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("IdUsuario")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Idade")
                         .HasColumnType("int");
 
                     b.Property<string>("NomeCrianca")
@@ -39,14 +41,18 @@ namespace Tcc.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("IdUsuario");
+
                     b.ToTable("Crianca");
                 });
 
             modelBuilder.Entity("Tcc.Models.Feedback", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Assunto")
                         .HasColumnType("nvarchar(max)");
@@ -70,9 +76,11 @@ namespace Tcc.Migrations
 
             modelBuilder.Entity("Tcc.Models.Jogada", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("DataJogou")
                         .HasColumnType("datetime2");
@@ -88,14 +96,20 @@ namespace Tcc.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("IdCrianca");
+
+                    b.HasIndex("IdJogo");
+
                     b.ToTable("Jogada");
                 });
 
             modelBuilder.Entity("Tcc.Models.Jogo", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("NomeJogo")
                         .HasColumnType("nvarchar(max)");
@@ -131,6 +145,36 @@ namespace Tcc.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Usuario");
+                });
+
+            modelBuilder.Entity("Tcc.Models.Crianca", b =>
+                {
+                    b.HasOne("Tcc.Models.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("IdUsuario")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("Tcc.Models.Jogada", b =>
+                {
+                    b.HasOne("Tcc.Models.Crianca", "Crianca")
+                        .WithMany()
+                        .HasForeignKey("IdCrianca")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Tcc.Models.Jogo", "Jogo")
+                        .WithMany()
+                        .HasForeignKey("IdJogo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Crianca");
+
+                    b.Navigation("Jogo");
                 });
 #pragma warning restore 612, 618
         }

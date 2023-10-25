@@ -1,0 +1,51 @@
+﻿@model Tcc.Models.Crianca
+@{
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/cadCrianca/style.css">
+        <title>Tela de Login</title>
+    </head>
+
+    <body>
+
+        <div class="container">
+            <div class="conteudo">
+                    <div class="cadastro">
+                        <div class="parte1">
+                            <img src="~/img/telafundo.png" alt="">
+                            <br>
+                        </div>
+                    <form asp-action="CadastroMiopia" asp-controller="Home" method="post" id="form" class="formulario">
+                        <div class="parte2">
+
+                                <div class="tituloC">
+                                    <h2>Cadastro da Criança!</h2>
+                                </div>
+                                <div class="conteudoCadastro">
+
+                                    <label>Nome</label>
+                                    <input asp-for="NomeCrianca" class="inp" type="text" /><br>
+
+                                    <label>Idade</label>
+                                    <input asp-for="Idade" class="inp" type="text" />
+
+                                </div>
+
+                                <div class="bEnviar">
+                                <button type="submit"> Salvar</button>
+                                </div>
+
+                        </div>
+                            </form>
+                    </div>
+            </div>
+        </div>
+
+    </body>
+
+    </html>
+}

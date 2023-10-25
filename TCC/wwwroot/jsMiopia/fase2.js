@@ -1,40 +1,40 @@
+
 var btn1 = document.getElementById("btn1");
 var btn2 = document.getElementById("btn2");
 var btn3 = document.getElementById("btn3");
 var btn4 = document.getElementById("btn4");
-var btn5 = document.getElementById("btn5");
-var btn6 = document.getElementById("btn6");
+
 var btncerto = "btn2";
+
+var btnNen = "btn4";
+
 var acertos = 0;
+
+var naoVer = 0;
+
 var erros = 0;
 
+acertos = parseInt(localStorage.getItem("acertos")) || 0;
+naoVer = parseInt(localStorage.getItem("naoVer")) || 0;
+erros = parseInt(localStorage.getItem("erros")) || 0;
 
-acertos = localStorage.getItem("acertos", acertos)
-console.log(acertos);
-
-
+console.log("Acertos" + acertos);
+console.log("Não vejo" + naoVer);
 
 function cbuttonF2(btn) {
-
-    if (btn == btncerto) {
+    if (btn === btncerto) {
         acertos++;
-
-        console.log(acertos);
-
-        acertos = localStorage.setItem("acertos", acertos)
+        localStorage.setItem("acertos", acertos.toString());
+    } else if (btn === "btn4") {
+        naoVer++;
+        localStorage.setItem("naoVer", naoVer.toString());
+    } else {
+        erros++;
+        localStorage.setItem("erros", erros.toString());
+        console.log("Erros: " + erros);
     }
-
-    else {
-    
-
-        console.log(acertos);
-    }
-
-
 
 }
-
-
 
 
 

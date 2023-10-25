@@ -12,8 +12,8 @@ using Tcc.Context;
 namespace Tcc.Migrations
 {
     [DbContext(typeof(BancoDados))]
-    [Migration("20231006230425_initial")]
-    partial class initial
+    [Migration("20231021193607_MaisUma3")]
+    partial class MaisUma3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -27,14 +27,16 @@ namespace Tcc.Migrations
 
             modelBuilder.Entity("Tcc.Models.Crianca", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
 
-                    b.Property<DateTime>("DataNasc")
-                        .HasColumnType("datetime2");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<int>("IdUsuario")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Idade")
                         .HasColumnType("int");
 
                     b.Property<string>("NomeCrianca")
@@ -42,14 +44,18 @@ namespace Tcc.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("IdUsuario");
+
                     b.ToTable("Crianca");
                 });
 
             modelBuilder.Entity("Tcc.Models.Feedback", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Assunto")
                         .HasColumnType("nvarchar(max)");
@@ -73,9 +79,14 @@ namespace Tcc.Migrations
 
             modelBuilder.Entity("Tcc.Models.Jogada", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CriancaId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("DataJogou")
                         .HasColumnType("datetime2");
@@ -86,19 +97,28 @@ namespace Tcc.Migrations
                     b.Property<int>("IdJogo")
                         .HasColumnType("int");
 
+                    b.Property<int>("JogoId")
+                        .HasColumnType("int");
+
                     b.Property<int>("PontuacaoJogo")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("CriancaId");
+
+                    b.HasIndex("JogoId");
 
                     b.ToTable("Jogada");
                 });
 
             modelBuilder.Entity("Tcc.Models.Jogo", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("NomeJogo")
                         .HasColumnType("nvarchar(max)");
@@ -134,6 +154,36 @@ namespace Tcc.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Usuario");
+                });
+
+            modelBuilder.Entity("Tcc.Models.Crianca", b =>
+                {
+                    b.HasOne("Tcc.Models.Usuario", "Usuario")
+                        .WithMany()
+                        .HasForeignKey("IdUsuario")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("Tcc.Models.Jogada", b =>
+                {
+                    b.HasOne("Tcc.Models.Crianca", "Crianca")
+                        .WithMany()
+                        .HasForeignKey("CriancaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Tcc.Models.Jogo", "Jogo")
+                        .WithMany()
+                        .HasForeignKey("JogoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Crianca");
+
+                    b.Navigation("Jogo");
                 });
 #pragma warning restore 612, 618
         }

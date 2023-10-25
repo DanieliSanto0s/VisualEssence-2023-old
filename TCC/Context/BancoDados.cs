@@ -12,7 +12,9 @@ using Tcc.Models;
         public DbSet<Jogada> Jogada { get; set; }
         public DbSet<Jogo> Jogo { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
-    }
 
-    
+    }
 }
+
+
+  

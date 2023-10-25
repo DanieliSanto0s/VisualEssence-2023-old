@@ -1,5 +1,7 @@
-﻿@{
+﻿
+@{
     <html>
+
     <head>
         <link rel="stylesheet" href="~/Mcss/style.css" />
     </head>
@@ -13,43 +15,38 @@
             </div>
 
             <div class="b-img">
-                <img src="~/img/MiopiaImgs/7.png">
+                <img src="~/ImgsMiopia/7.png">
             </div>
 
             <div class="grid-botao">
 
                 <div class="linha1">
-                    <a class="m-botao" onclick="cbuttonF7('btn1')" id="btn1"><p class="jogo-letras7">YUG<br>HNR</p></a>
-                    <a class="m-botao" onclick="cbuttonF7('btn2')" id="btn2"><p class="jogo-letras7">JUK<br>RXS</p></a>
-                    <a class="m-botao" onclick="cbuttonF7('btn3')" id="btn3"><p class="jogo-letras7">HJR<br>BXE</p></a>
+                    <a class="m-botao" onclick="cbuttonF7('btn1')" id="btn1" href="~/Miopia/Fase8">
+                        <img src="~/imgsmiopia/Corretas/7.png" alt="">
+                    </a>
+                    <a class="m-botao" onclick="cbuttonF7('btn2')" id="btn2" href="~/Miopia/Fase8">
+                        <img src="~/imgsmiopia/Incorretas/7inc.png" alt="">
+                    </a>
+                    <a class="m-botao" onclick="cbuttonF7('btn3')" id="btn3" href="~/Miopia/Fase8">
+                        <img src="~/imgsmiopia/Incorretas/7inc2.png" alt="">
+                    </a>
                 </div>
 
-
                 <div class="linha2">
-                    <a class="m-botao" onclick="cbuttonF7('btn4')" id="btn4"><p class="jogo-letras7">TMS<br>LFJ</p></a>
-                    <a class="m-botao" onclick="cbuttonF7('btn5')" id="btn5"><p class="jogo-letras7">BTN<br>GYH</p></a>
-                    <a class="m-botao" onclick="cbuttonF7('btn6')" id="btn6"><p class="jogo-letras7">XRT<br>YSE</p></a>
+                    <a class="m-botao2" onclick="cbuttonF7('btn4')" id="btn4" href="~/Miopia/Fase8">
+                        Não enxergo nada!
+                    </a>
+
                 </div>
 
             </div>
-
-
-
-            <a class="a-button" href="~/Miopia/Fase8"> AVANÇAR </a>
-
-
-
-
-
         </div>
-        <script src="~/jsMiopia/fase7.js"></script>
 
+        <script src="~/jsMiopia/fase7.js"></script>
     </body>
 
 
 
     </html>
-
-
 
 }

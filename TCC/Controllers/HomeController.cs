@@ -1,27 +1,32 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using System.Reflection.Metadata.Ecma335;
+using System.Security.Claims;
 using Tcc.Context;
 using Tcc.Models;
 
 namespace Tcc.Controllers
 {
-    [Authorize]
+   [Authorize]
     public class HomeController : Controller
     {
 
         private readonly BancoDados _context;
-
+ 
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger, BancoDados context) 
         {
             _context = context;
             _logger = logger;
+
         }
 
- 
+
+
 
         public IActionResult Index()
         {
@@ -56,10 +61,37 @@ namespace Tcc.Controllers
             return View();
         }
 
+        [HttpGet]
+        public IActionResult CadastroMiopia()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CadastroMiopia(Crianca modCrianca, int Idade, string NomeCrianca)
+        {
+            var userId = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+
+            var crianca = new Crianca
+            {
+                Idade = Idade,
+                NomeCrianca = NomeCrianca,
+                IdUsuario = Convert.ToInt32(userId)
+
+            };
+
+                _context.Add(crianca);
+                await _context.SaveChangesAsync();
+
+            return RedirectToAction("Fase1","Miopia");
+
+        }
+
+
+
         [HttpPost]
         public IActionResult EnviarFeedback(Feedback feedback)
         {
-
 
             if (ModelState.IsValid)
             {
@@ -70,9 +102,6 @@ namespace Tcc.Controllers
 
             return View("Index", feedback);
         }
-
-
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

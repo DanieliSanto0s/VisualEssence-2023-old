@@ -1,9 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Tcc.Context;
+using Tcc.Models;
 
 namespace Tcc.Controllers
 {
     public class MiopiaController : Controller
     {
+    private readonly BancoDados _context;
+
+        public MiopiaController(BancoDados context)
+        {
+            _context = context;
+        }
         public IActionResult Fase1()
         {
             return View();
@@ -39,9 +48,30 @@ namespace Tcc.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult Fase8()
         {
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Fase8([FromBody] Jogada novaJogada)
+        {
+            int idCrianca = HttpContext.Session.GetInt32("IdCrianca");
+            var jogada = new Jogada()
+            {
+                  PontuacaoJogo = novaJogada.PontuacaoJogo,
+                  IdJogo = novaJogada.IdJogo,
+                  DataJogou = DateTime.Now,
+                  
+            };
+
+            _context.Jogada.Add(novaJogada);
+            _context.SaveChanges();
+
+
+            return View();
+        }
+
     }
 }

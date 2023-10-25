@@ -13,12 +13,144 @@
       "PackagePath": "staticwebassets\\Dcss\\style.css"
     },
     {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\1.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\1.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\3.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\3.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\4.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\4.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\5.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\5.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\6.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\6.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\7.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\7.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\8.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\8.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\1.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\1.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\3.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\3.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\4.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\4.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\5.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\5.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\6.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\6.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\7.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\7.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\8.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\8.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\1inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\1inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\2inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\2inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\3inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\3inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\4inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\4inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\5inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\5inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\6inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\6inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\7inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\7inc2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\8inc.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc2.png",
+      "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\8inc2.png"
+    },
+    {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
       "PackagePath": "staticwebassets\\Mcss\\mstyle.css"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
       "PackagePath": "staticwebassets\\Mcss\\style.css"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cadCrianca\\style.css",
+      "PackagePath": "staticwebassets\\cadCrianca\\style.css"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\aviso.css",
@@ -47,38 +179,6 @@
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
       "PackagePath": "staticwebassets\\feedbackCss\\style.css"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\1.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\1.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\2.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\2.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\3.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\3.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\4.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\4.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\5.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\5.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\6.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\6.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\7.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\7.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\MiopiaImgs\\8.png",
-      "PackagePath": "staticwebassets\\img\\MiopiaImgs\\8.png"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\crianca.png",

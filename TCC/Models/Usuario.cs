@@ -21,9 +21,5 @@ namespace Tcc.Models
 
         public bool IsAdmin { get; set; } = false;
 
-        internal static Task GetUserAsync(ClaimsPrincipal user)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

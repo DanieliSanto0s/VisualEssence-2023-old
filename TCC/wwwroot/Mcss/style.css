@@ -1,290 +1,270 @@
-﻿    @import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
 
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        text-decoration:none;
-        font-family: 'Inter', sans-serif;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+}
+
+@media only screen and (max-width: 1400px) {
+    body {
+        font-size: .7em;
     }
 
-    @media only screen and (max-width: 1400px) {
-        body{
-            font-size:.7em;
-        
-        }
-
-        .b-img img{
-            width:20em;
-            height:20em;
-        }
- 
-
+    .b-img img {
+        width: 20em;
+        height: 20em;
     }
+}
 
-        body {
-            background: url(/img/playground2.png);
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-color: #1E1E1E;
-            width: 100vw;
-            height: 100vh;
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-        }
+body {
+    background: url(/img/playground2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #1E1E1E;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 
-        .MiopiaContainer {
-            width: 35em;
-            height: 55em;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
+.MiopiaContainer {
+    width: 40em;
+    height: 55em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
-        .grid-botao a {
-            display: flex;
-            flex-direction: column;
-            width: 5em;
-            height: 5em;
-            text-decoration: none;
-            box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
-            border-radius: .8em;
-            background-color: #514EEF;
-            cursor: pointer;
-        }
+   
+    background: rgba(196, 234, 255, 0.09);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(8.4px);
+    -webkit-backdrop-filter: blur(8.4px);
+    border: 1px solid rgba(196, 234, 255, 0.11);
+}
 
+.b-titulo h1 {
+    display: flex;
+    font-family: 'Holtwood One SC', serif;
+    color: #ffffff;
+    padding: .2em;
+    font-weight: 100;
+}
 
-
-        .linha1 {
-            display: flex;
-            flex-direction: row;
-            border-radius: .8em;
-            padding: 2em;
-            gap: 2em;
-        }
-
-        .linha2 {
-            display: flex;
-            flex-direction: row;
-            border-radius: 12px;
-            padding: 2em;
-            gap: 2em;
-        }
+.b-img {
+    display:flex;
+    width: 22em;
+    height: 20em;
+    border-radius: 2em;
+    background: #ffffff;
+    box-shadow: 0px 15px 11px 0px rgba(0, 0, 0, 0.25);
+    align-items:center;
+    justify-content:center;
+}
 
 
-        .btn {
+.linha1 a {
+    display: flex;
+    flex-direction: column;
+    width: 10em;
+    height: 10em;
+    text-decoration: none;
+    box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
+    border-radius: .8em;
+    background-color: white;
+    cursor: pointer;
+}
 
-            padding: 2em;
 
-        }
 
-    .a-button {
-        width: 7em;
-        height: 4.5em;
-        background-color: #514EEF;
-        border-radius: .8em;
-        box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
-        text-decoration: none;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-family: 'Holtwood One SC', serif;
-        color: #ffffff;
-        transition: .3s ease;
-        cursor: pointer;
-    }
+
+
+.linha1 {
+    display: flex;
+    flex-direction: row;
+    border-radius: .8em;
+    padding: 2em;
+    gap: 2em;
+}
+
+.linha2 {
+    display: flex;
+    flex-direction: row;
+    border-radius: 12px;
+    padding: 2em;
+    padding-top: 0;
+}
+
+
+.a-button {
+    width: 7em;
+    height: 4.5em;
+    background-color: white;
+    border-radius: .8em;
+    box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Holtwood One SC', serif;
+    color: #082554;
+    transition: .3s ease;
+    cursor: pointer;
+}
+
     .a-button:hover {
-        background-color: #1f1cd4;
+        background-color: #BEE3FF;
         transform: scale(1.1);
         transition: .3s ease;
     }
 
-    .jogo-letras{
-        font-size:20px;
-        font-weight:600;
-        color:white;
-        width:100%;
-        height:100%;
-        display:flex;
-        align-items:center;
-        justify-content:center;
-    }
-
-    .jogo-letras3 {
-        font-size: 17px;
-        font-weight: 600;
-        color: white;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .jogo-letras4 {
-        font-size: 15px;
-        font-weight: 600;
-        color: white;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .jogo-letras5 {
-        font-size: 14px;
-        font-weight: 600;
-        color: white;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        text-align:justify;
-        align-items: center;
-        justify-content: center;
-    }
+.jogo-letras {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
-    .jogo-letras6 {
-        font-size: 14px;
-        font-weight: 600;
-        color: white;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        text-align: justify;
-        align-items: center;
-        justify-content: center;
-    }
+.m-botao {
+    transition: .3s ease;
+    background-color: #082554;
+}
 
-    .jogo-letras7 {
-        font-size: 14px;
-        font-weight: 600;
-        color: white;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        text-align: justify;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .jogo-letras8 {
-        font-size: 14px;
-        font-weight: 600;
-        color: white;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        text-align: justify;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .m-botao {
+    .m-botao:hover {
+        background-color: #BEE3FF;
+        transform: scale(1.1);
         transition: .3s ease;
     }
 
-        .m-botao:hover {
-            background-color: #1f1cd4;
-            transform: scale(1.1);
-            transition: .3s ease;
-        }
 
-    .b-titulo h1 {
-        display: flex;
-        font-family: 'Holtwood One SC', serif;
-        color: #ffffff;
-        padding: 1em;
-        font-weight: 100;
+
+.m-botao2 {
+    display: flex;
+    color: #082554;
+    flex-direction: column;
+    width: 100%;
+    height: 4em;
+    text-decoration: none;
+    box-shadow: 0px 15px 11px -1px rgba(0, 0, 0, 0.25);
+    border-radius: .8em;
+    background-color: white;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    transition: .3s ease;
+}
+
+    .m-botao2:hover {
+        background-color: #BEE3FF;
+        transform: scale(1.05);
+        transition: .3s ease;
     }
 
-    .b-img {
-        width: 20em;
-        height: 20em;
-        border-radius: 2em;
-        background: #ffffff;
-        box-shadow: 0px 15px 11px 0px rgba(0, 0, 0, 0.25);
+
+
+
+
+
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 25em;
+    /* Could be more or less, depending on screen size */
+    height: 25em;
+    border-radius: 1.5em;
+    background-color: #53ace0;
+}
+
+div.mod-result {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+div.box-result {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #8ad4ff;
+    padding: 2em;
+    height: 100%;
+    gap: 1em;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2em;
+    border: dotted;
+}
+
+
+
+div.grid-result {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 1em;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.close {
+    color: #252525;
+    font-size: 1.5em;
+    border-radius: 1em;
+    font-weight: bold;
+    padding: .5em;
+    border-style: none;
+    transition: .3s;
+}
+
+    .close:hover,
+    .close:focus {
+        color: white;
+        background-color: #252525;
+        text-decoration: none;
+        cursor: pointer;
+        transition: .3s;
     }
 
-
-        .modal {
-            display: none; /* Hidden by default */
-            position: fixed; /* Stay in place */
-            z-index: 1; /* Sit on top */
-            left: 0;
-            top: 0;
-            width: 100%; /* Full width */
-            height: 100%; /* Full height */
-            overflow: auto; /* Enable scroll if needed */
-            background-color: rgb(0,0,0); /* Fallback color */
-            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-        }
-
-        .modal-content {
-            background-color: #fefefe;
-            margin: 15% auto; /* 15% from the top and centered */
-            padding: 20px;
-            border: 1px solid #888;
-            width: 25em; /* Could be more or less, depending on screen size */
-            height: 25em;
-            border-radius: 1.5em;
-            background-color: #53ace0;
-        }
-
-        div.mod-result {
-            display: flex;
-            flex-direction: column;
-            text-align: center;
-        }
-
-        div.box-result {
-            display: flex;
-            flex-direction: column;
-            text-align: center;
-            background-color: #8ad4ff;
-            padding: 2em;
-            height: 100%;
-            gap: 1em;
-            align-content: center;
-            text-align: center;
-            justify-content: center;
-            align-items: center;
-            border-radius: 2em;
-            border: dotted;
-        }
-
-
-
-        div.grid-result {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            grid-template-rows: 1fr 1fr;
-            gap: 1em;
-            font-size: 1.5em;
-            margin-bottom: 1em;
-        }
-
-        .close {
-            color: #252525;
-            font-size: 1.5em;
-            border-radius: 1em;
-            font-weight: bold;
-            padding: .5em;
-            border-style: none;
-            transition: .3s;
-        }
-
-            .close:hover,
-            .close:focus {
-                color: white;
-                background-color: #252525;
-                text-decoration: none;
-                cursor: pointer;
-                transition: .3s;
-            }
-
-    a{text-decoration:none;}
+a {
+    text-decoration: none;
+}
