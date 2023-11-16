@@ -25,70 +25,24 @@ namespace Tcc.Controllers
 
         }
 
-
-
-
         public IActionResult Index()
         {
             return View();
         }
-
- 
 
         public IActionResult Perfil()
         {
             return View();
         }
 
- 
-
         public IActionResult Doacao()
         {
             return View();
         }
-
  
+        
 
-        public IActionResult DaltonismoGame()
-        {
-            return View();
-        }
-
- 
-
-        public IActionResult MiopiaGame()
-        {
-            return View();
-        }
-
-        [HttpGet]
-        public IActionResult CadastroMiopia()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> CadastroMiopia(Crianca modCrianca, int Idade, string NomeCrianca)
-        {
-            var userId = User.FindFirst(ClaimTypes.NameIdentifier).Value;
-
-            var crianca = new Crianca
-            {
-                Idade = Idade,
-                NomeCrianca = NomeCrianca,
-                IdUsuario = Convert.ToInt32(userId)
-
-            };
-
-                _context.Add(crianca);
-                await _context.SaveChangesAsync();
-
-            return RedirectToAction("Fase1","Miopia");
-
-        }
-
-
-
+        
         [HttpPost]
         public IActionResult EnviarFeedback(Feedback feedback)
         {

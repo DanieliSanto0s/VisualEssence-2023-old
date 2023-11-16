@@ -7,20 +7,12 @@ var btncerto = "btn1";
 
 var btnNen = "btn4";
 
-var acertos = 0;
-
-var naoVer = 0;
-
-var erros = 0;
-
-console.log("Acertos" + acertos);
-console.log("Não vejo" + naoVer);
 
 localStorage.clear();
 
-acertos = parseInt(localStorage.getItem("acertos")) || 0;
-naoVer = parseInt(localStorage.getItem("naoVer")) || 0;
-erros = parseInt(localStorage.getItem("erros")) || 0;
+var acertos = parseInt(localStorage.getItem("acertos")) || 0;
+var naoVer = parseInt(localStorage.getItem("naoVer")) || 0;
+var erros = parseInt(localStorage.getItem("erros")) || 0;
 
 function cbuttonF1(btn) {
     if (btn === btncerto) {
@@ -39,6 +31,8 @@ function cbuttonF1(btn) {
     }
 }
 
+console.log("Acertos" + acertos);
+console.log("Nï¿½o vejo" + naoVer);
 
 
 

@@ -25,9 +25,16 @@
                 <span class="bi bi-eye-slash" id="iconesenha"> </span>
             </div>
 
+            @if(TempData["ErrorMessage"] !=null)
+            {
+            <p style="color: red">@TempData["ErrorMessage"]</p>
+            }
             <div class="submit-btn">
                 <button class="btn" type="submit">Entrar</button>
             </div>
+
+
+
 
             <div class="login-register">
                 <p>Ainda não possui uma conta? <a href="~/Conta/Cadastro">Cadastrar</a> </p>

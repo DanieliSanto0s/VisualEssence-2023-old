@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/*@media screen*/
+*{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+@media only screen and (max-width: 1400px) {
+    body {
+        font-size: .7em;
+      
+    }
+
+    .img img {
+        width: 22em;
+        height: 28em;
+    }
+
+}
+
+@media only screen and (width: 1900px) {
+    body {
+        font-size: .7em;
+    }
+
+    .img img {
+        width: 35em;
+        height: 40em;
+    }
+}
+
+@media only screen and (width: 2200px) {
+    body {
+        font-size: .7em;
+    }
+
+    .img img {
+        width: 40em;
+        height: 45em;
+    }
+}
+
+
+body{
+    background: rgb(16,121,199);
+    background: linear-gradient(180deg, rgba(16,121,199,1) 0%, rgba(16,121,204,0.9192051820728291) 51%, rgba(68,179,190,0.8519782913165266) 100%);
+ min-height: 100vh;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.imgP img{
+    border-radius: 100%;
+}
+
+.botao{
+    padding-left: 15px;
+}
+
+.botao1{
+    color: white;
+    font-size: 18px;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+nav{
+    background: rgb(64,58,171);
+    background: linear-gradient(180deg, rgba(64,58,171,0.6727065826330532) 0%, rgba(0,212,255,0) 100%);     
+    position: fixed;
+    width: 100%;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.imgP1{
+    padding-right: 15px;
+    align-items: center;
+}
+
+.ong1 {
+    padding: 4em;
+    padding-right: 250px;
+    padding-left: 250px;
+    line-height: 30px;
+    margin-top: -200px;
+    margin-top: 30px;
+
+}
+
+.img{
+    margin: 20px;
+    padding-block: 30px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.t1{
+    margin: 20px;
+    font-size: 20px;
+    text-align: justify;
+    width: 20em;
+}
+
+.T1{
+    text-align: center;
+    padding: 1em;
+
+}
+
+.btn1{
+    text-align: center;
+    margin-left: 145px;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}

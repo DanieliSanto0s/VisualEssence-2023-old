@@ -3,6 +3,7 @@
 
     <head>
         <link rel="stylesheet" href="~/Mcss/style.css" />
+
     </head>
 
     <body>
@@ -20,34 +21,56 @@
             <div class="grid-botao">
 
                 <div class="linha1">
-                    <a class="m-botao" onclick="cbuttonF8('btn1')" id="btn1" >
-                        <img src="~/imgsmiopia/Incorretas/8inc2.png" alt="" >
+                    <a class="m-botao" onclick="cbuttonF8('btn1')" id="btn1">
+                        <img src="~/imgsmiopia/Incorretas/8inc2.png" alt="">
                     </a>
-                    <a class="m-botao" onclick="cbuttonF8('btn2')" id="btn2"  >
+                    <a class="m-botao" onclick="cbuttonF8('btn2')" id="btn2">
                         <img src="~/imgsmiopia/Corretas/8.png" alt="">
                     </a>
-                    <a class="m-botao" onclick="cbuttonF8('btn3')" id="btn3"  >
+                    <a class="m-botao" onclick="cbuttonF8('btn3')" id="btn3">
                         <img src="~/imgsmiopia/Incorretas/8inc.png" alt="">
                     </a>
                 </div>
 
                 <div class="linha2">
-                    <a class="m-botao2" onclick="cbuttonF8('btn4')" id="btn4"  >
+                    <a class="m-botao2" onclick="cbuttonF8('btn4')" id="btn4">
                         Não enxergo nada!
                     </a>
 
                 </div>
 
             </div>
+                <div class="linha3">
+                    
+                <button type="submit" class="result" id="enviarJogada">Diagnóstico</button>
+                </div>
 
-            <a> Resultado </a>
         </div>
 
-        <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
-        <script src="~/jsMiopia/fase8.js"></script>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+        <script>
+            // Adicione um manipulador de eventos ao botão
+            $('#enviarJogada').on('click', function () {
+                // Suponha que 'minhaVariavel' seja a variável que você deseja verificar
+                var acertos = localStorage.getItem("acertos");
+                console.log(acertos + "verificação script no html");
+
+                // Faça a verificação
+                if (acertos >= 5) {
+                    // Se a variável for maior que 15, redirecione para outra página
+                    window.location.href = '/Miopia/GoodResult';
+                } else {
+                    // Senão, redirecione para outra página
+                    window.location.href = '/Miopia/BadResult';
+                }
+            });
+        </script>
+
     </body>
-
-
+    <script src="~/jsMiopia/fase8.js"></script>
 
     </html>
 

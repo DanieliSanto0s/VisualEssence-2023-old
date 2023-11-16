@@ -1,7 +1,80 @@
-﻿
-@{
-    <h1>Oi</h1>
-    <a href="~/Home">
-        <button class='c_inf-button'> Home </button>
-    </a>
-}
+﻿@using Tcc.ViewModel
+
+@model PerfilViewModel
+   
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Perfil</title>
+        <link rel="stylesheet" href="~/cssPerfil/style.css">
+    </head>
+
+    <body>
+        <nav>
+            <ul>
+                <li>
+                    <a class="btnCasa" href="~/Home/Index" >
+                        <img src="~/img/home.png" width="50" height="50"/><br>
+                        <div class="btnTexto">Voltar</div>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="container">
+            <div class="perfil">
+                <img class="imgP" src="~/img/perfil.png">
+                    
+                    <div>
+                        <br>
+                        <br>@Model.Usuario.NomeResp<br>
+                        <br>@Model.Usuario.Email<br>
+                        <br>
+                               
+                    </div>
+            
+            </div>
+            <div class="historico">
+                <br><br><br>
+                <h2 class="TIT">Histórico</h2>
+                <br>
+
+                    <div class="relatScroll">
+                      @if (Model.HistoricoJogada != null && Model.HistoricoJogada.Any())
+    {
+
+                        @foreach (var jogada in Model.HistoricoJogada)
+                    {
+                            
+                            <div class="rel" style="background-color: #FFFFF0;">
+                                <br>
+                                    <p>Nome: @jogada.NomeCrianca</p>
+                                <br>
+                                    <p>Pontos: @jogada.PontuacaoJogo</p>
+                                <br>
+                                    <p>Data: @jogada.DataJogou</p>
+                                <br>
+                                    <p>Jogo: @jogada.NomeJogo</p>
+
+                                   <br><br>
+                            </div>
+
+                            <br />
+
+
+                     
+                        }
+                }
+                else
+                {
+                    <p>Ainda não existe nenhuma partida realizada!</p>
+                }
+                    </div>
+                
+            </div>
+        </div>
+    </body>
+
+    </html>

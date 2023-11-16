@@ -163,7 +163,7 @@
                                         <h3>MIOPIA</h3>
                                     </div>
                                     <div class='op-botao'>
-                                        <a href="~/Home/CadastroMiopia" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                        <a href="~/Miopia/CadastroMiopia" data-bs-toggle="modal" data-bs-target="#exampleModal">
 
                                         <img class="imgJogo" src="~/img/miopia.png" > 
 
@@ -190,7 +190,7 @@
                                         <h3>DALTONISMO</h3>
                                     </div>
                                     <div class='op-botao'>
-                                        <a href="~/Home/DaltonismoGame" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                        <a href="~/Daltonismo/CadastroDaltonismo" data-bs-toggle="modal" data-bs-target="#exampleModal">
 
                                             <img class="imgJogo" src="~/img/daltonismo.png"> 
 
@@ -230,7 +230,7 @@
 
                     <div class='box-contato'>
 
-                        <form asp-controller="Home" asp-action="EnviarFeedback" method="post" class='cont-form'>
+                        <form asp-controller="Home" asp-action="EnviarFeedback" method="post" class='cont-form' id="form">
 
                             <span class='info-area'>
 
@@ -239,7 +239,7 @@
                                         <input asp-for="NomeUs" class='box-nome' type='text' placeholder='Nome' required />
                                         <input asp-for="Email" class='box-email' type='text' placeholder='Email' required />
                                         <input asp-for="Assunto" class='box-assunto' type='text' placeholder='Assunto' required />
-                                        <input class='box-submit' type='submit' placeholder='Enviar' />
+                                        <input class='box-submit' type='submit' onclick="exibirAlerta()" placeholder='Enviar' />
 
                                 </div>
 
@@ -258,7 +258,6 @@
         </section>
 
     </main>
-
 
 </body>
 

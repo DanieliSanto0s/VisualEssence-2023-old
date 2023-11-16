@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.CookiePolicy;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Routing.Patterns;
+using System.Security.Policy;
 
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
@@ -26,8 +28,8 @@ services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
         .AddCookie(options =>
         {
             options.Cookie.Name = "UsuarioLogado";
-            options.ExpireTimeSpan = TimeSpan.FromMinutes(20); // Defina o tempo de expiração do cookie conforme necessário
             options.LoginPath = "/Conta/Login";
+            options.LogoutPath = "/Conta/Cadastro";
 
         });
 
@@ -35,6 +37,12 @@ services.AddAuthorization(options =>
 {
     options.AddPolicy("AdminOnly", policy => policy.RequireRole("Admin"));
 });
+
+services.AddControllersWithViews()
+            .AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.PropertyNamingPolicy = null;
+            });
 
 builder.Services.AddDbContext<BancoDados>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -68,11 +76,21 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Conta}/{action=Cadastro}/{id?}");
 
+
+
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
         name: "default",
-        pattern: "{controller=Feedback}/{action=Feedback}/{id?}");
+        pattern: "{controller=Feedback}/{action=Feedback}/{idCrianca}"
+    );
+
+    endpoints.MapControllerRoute(
+        name: "historico",
+        pattern: "Perfil/Perfil",
+        defaults: new { controller = "Perfil", action = "Perfil" }
+    );
+
 });
 
 app.Run();

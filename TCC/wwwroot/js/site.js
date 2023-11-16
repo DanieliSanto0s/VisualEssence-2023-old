@@ -21,3 +21,7 @@ function scrollToSection(event) {
 menuLinks.forEach((link) =>
     link.addEventListener("click", scrollToSection)
 )
+
+function exibirAlerta() {
+    alert("Obrigado pelo feedback")
+}

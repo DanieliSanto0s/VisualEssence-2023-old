@@ -8,7 +8,20 @@
     font-family: 'Inter', sans-serif;
 }
 
+
 @media only screen and (max-width: 1400px) {
+    body {
+        font-size: .6em;
+      
+    }
+
+    .b-img img {
+        width: 18em;
+        height: 18em;
+    }
+}
+
+@media only screen and (width: 1900px) {
     body {
         font-size: .7em;
     }
@@ -16,6 +29,17 @@
     .b-img img {
         width: 20em;
         height: 20em;
+    }
+}
+
+@media only screen and (width: 2200px) {
+    body {
+        font-size: .7em;
+    }
+
+    .b-img img {
+        width: 25em;
+        height: 25em;
     }
 }
 
@@ -102,6 +126,25 @@ body {
 }
 
 
+.linha3 .result{
+    padding: 1em 2em 1em 2em;
+    border: none;
+    font-size: 1em;
+    border-radius: .8em;
+    transition: .3s ease;
+    font-family: 'Holtwood One SC', serif;
+    color: #082554;
+    font-weight:200;
+
+
+}
+
+.linha3 .result:hover{
+    transform: scale(1.050 );
+    transition: .3s ease;
+}
+
+
 .a-button {
     width: 7em;
     height: 4.5em;
@@ -162,7 +205,7 @@ body {
     cursor: pointer;
     text-align: center;
     justify-content: center;
-    font-weight: 800;
+    font-family: 'Holtwood One SC', serif;
     text-transform: uppercase;
     transition: .3s ease;
 }
@@ -172,12 +215,6 @@ body {
         transform: scale(1.05);
         transition: .3s ease;
     }
-
-
-
-
-
-
 
 .modal {
     display: none;

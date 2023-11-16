@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tcc
 build_property.RootNamespace = Tcc
-build_property.ProjectDir = C:\tccarchive\TCC\TCC\
+build_property.ProjectDir = C:\tccarchive\TCC\Tcc\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\tccarchive\TCC\TCC
+build_property.MSBuildProjectDirectory = C:\tccarchive\TCC\Tcc
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/tccarchive/TCC/TCC/Views/Conta/Cadastro.cshtml]
@@ -24,6 +24,94 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/BadResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xCYWRSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/CadastroDaltonismo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xDYWRhc3Ryb0RhbHRvbmlzbW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/DaltoGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xEYWx0b0dhbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase13.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase14.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase15.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase16.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase17.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase18.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlOC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/Fase9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlOS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Daltonismo/GoodResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xHb29kUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/tccarchive/TCC/TCC/Views/Doacao/Doacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hY2FvXERvYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,20 +120,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRmVlZGJhY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/TCC/Views/Home/CadastroMiopia.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3Ryb01pb3BpYS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/tccarchive/TCC/TCC/Views/Home/DaltonismoGame.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYWx0b25pc21vR2FtZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/tccarchive/TCC/TCC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/TCC/Views/Home/MiopiaGame.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaW9waWFHYW1lLmNzaHRtbA==
+[C:/tccarchive/TCC/TCC/Views/Miopia/BadResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEJhZFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Miopia/CadastroMiopia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXENhZGFzdHJvTWlvcGlhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/tccarchive/TCC/TCC/Views/Miopia/Fase1.cshtml]
@@ -78,6 +162,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/tccarchive/TCC/TCC/Views/Miopia/Fase8.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Miopia/GoodResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEdvb2RSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/tccarchive/TCC/TCC/Views/Miopia/MiopiaGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXE1pb3BpYUdhbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/tccarchive/TCC/TCC/Views/Perfil/Perfil.cshtml]

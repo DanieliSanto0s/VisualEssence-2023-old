@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
+using Tcc.Segurança;
 
 namespace Tcc.Models
 {
@@ -20,6 +21,12 @@ namespace Tcc.Models
         public string? Senha { get; set; }
 
         public bool IsAdmin { get; set; } = false;
+
+
+        public void CriarHash()
+        {
+            Senha = Senha.CriarHash();
+        }
 
     }
 }

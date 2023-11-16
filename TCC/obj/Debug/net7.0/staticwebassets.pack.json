@@ -9,6 +9,22 @@
       "PackagePath": "staticwebassets\\Acss\\style.css"
     },
     {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\CssDoe\\style.css",
+      "PackagePath": "staticwebassets\\CssDoe\\style.css"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\IntroDalto.css",
+      "PackagePath": "staticwebassets\\Dcss\\IntroDalto.css"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\badresult.css",
+      "PackagePath": "staticwebassets\\Dcss\\badresult.css"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\goodresult.css",
+      "PackagePath": "staticwebassets\\Dcss\\goodresult.css"
+    },
+    {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
       "PackagePath": "staticwebassets\\Dcss\\style.css"
     },
@@ -145,12 +161,20 @@
       "PackagePath": "staticwebassets\\Mcss\\mstyle.css"
     },
     {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\result.css",
+      "PackagePath": "staticwebassets\\Mcss\\result.css"
+    },
+    {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
       "PackagePath": "staticwebassets\\Mcss\\style.css"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cadCrianca\\style.css",
       "PackagePath": "staticwebassets\\cadCrianca\\style.css"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cssPerfil\\style.css",
+      "PackagePath": "staticwebassets\\cssPerfil\\style.css"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\aviso.css",
@@ -179,6 +203,18 @@
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
       "PackagePath": "staticwebassets\\feedbackCss\\style.css"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\adevaQRCode.jpeg",
+      "PackagePath": "staticwebassets\\img\\adevaQRCode.jpeg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\amdafQRCode.jpeg",
+      "PackagePath": "staticwebassets\\img\\amdafQRCode.jpeg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\andorinhaQRCode.jpeg",
+      "PackagePath": "staticwebassets\\img\\andorinhaQRCode.jpeg"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
@@ -257,6 +293,270 @@
       "PackagePath": "staticwebassets\\img\\telafundo.png"
     },
     {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\1.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\1.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\10.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\10.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\11.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\11.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\12.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\12.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\13.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\13.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\14.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\14.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\15.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\15.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\16.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\16.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\17.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\17.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\18.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\18.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\2.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\2.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\3.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\3.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\4.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\4.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\5.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\5.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\6.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\6.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\7.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\7.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\8.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\8.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\9.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\9.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\Home.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\Home.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\Zoojogo.jpeg",
+      "PackagePath": "staticwebassets\\imgsDalto\\Zoojogo.jpeg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\animais.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\animais.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\borboleta.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\borboleta.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cachorro.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\cachorro.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\canguru.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\canguru.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cervo.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\cervo.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cobra.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\cobra.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\coelho.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\coelho.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\elefante.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\elefante.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\esquilo.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\esquilo.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.avif",
+      "PackagePath": "staticwebassets\\imgsDalto\\fundoresul.avif"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\fundoresul.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\girafa.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\girafa.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\golfinho.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\golfinho.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\imginstru.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\imginstru.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\lesma.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\lesma.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\morcego.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\morcego.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\nada.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\nada.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\passaro.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\passaro.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\pato.jpg",
+      "PackagePath": "staticwebassets\\imgsDalto\\pato.jpg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\peixe.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\peixe.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\pinguin.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\pinguin.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\plank.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\plank.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\play.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\play.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\resul.jpeg",
+      "PackagePath": "staticwebassets\\imgsDalto\\resul.jpeg"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\tartaruga.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\tartaruga.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\tela fundo.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\tela fundo.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\urso.png",
+      "PackagePath": "staticwebassets\\imgsDalto\\urso.png"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase1.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase1.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase10.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase10.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase11.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase11.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase12.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase12.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase13.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase13.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase14.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase14.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase15.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase15.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase16.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase16.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase17.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase17.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase18.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase18.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase2.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase2.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase3.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase3.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase4.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase4.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase5.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase5.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase6.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase6.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase7.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase7.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase8.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase8.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase9.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\Fase9.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\res.js",
+      "PackagePath": "staticwebassets\\jsDaltonismo\\res.js"
+    },
+    {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase1.js"
     },
@@ -287,6 +587,10 @@
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase8.js"
+    },
+    {
+      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\res.js",
+      "PackagePath": "staticwebassets\\jsMiopia\\res.js"
     },
     {
       "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\RegistroMiopia.js",

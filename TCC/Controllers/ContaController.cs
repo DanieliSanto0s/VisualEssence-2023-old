@@ -11,6 +11,9 @@ using System.Security.Cryptography.Xml;
 using System.Threading.Tasks;
 using Tcc.Context;
 using Tcc.Models;
+using Microsoft.AspNetCore.Identity;
+using Tcc.Segurança;
+using System.Net.Mail;
 
 namespace Tcc.Controllers
 {
@@ -30,27 +33,25 @@ namespace Tcc.Controllers
         }
 
         [HttpPost]
-        public IActionResult Cadastro(Usuario usuario)
+        public async Task<IActionResult> Cadastro(Usuario usuario)
         {
-            if (_context.Usuario.Any(u => u.Email == usuario.Email))
-            {
-                ModelState.AddModelError(nameof(Usuario.Email), "Este email já está cadastrado.");
-            }
-
-
-            if (ModelState.IsValid)
+            if (_context.Usuario.Where(u => u.Email == usuario.Email).FirstOrDefault() == null)
             {
                 usuario.Email = usuario.Email.ToLower();
 
-                _context.Usuario.Add(usuario);
-                _context.SaveChanges();
+                usuario.CriarHash();
+                _context.Add(usuario);
+                await _context.SaveChangesAsync();
 
 
-                Task.Delay(3000); // Atraso de 3 segundos
                 return RedirectToAction("Login", "Conta");
             }
-            
-            return View(usuario);
+
+            else
+            {
+                TempData["ErrorMessage"] = "Este email já esta cadastrado!";
+                return View();
+            }
 
         }
 
@@ -60,10 +61,15 @@ namespace Tcc.Controllers
             return View();
         }
 
+
         [HttpPost]
         public IActionResult Login(string email, string senha, int IdCrianca, Crianca crianca)
         {
+            senha = senha.CriarHash();
+            email = email.ToLower();
+
             var usuario = _context.Usuario.FirstOrDefault(u => u.Email == email && u.Senha == senha);
+
 
             if (usuario != null)
             {
@@ -91,8 +97,18 @@ namespace Tcc.Controllers
 
                 int idCrianca = ObterIdCrianca(crianca);
 
+                var UsuarioDados = new Usuario
+                {
+                    NomeResp = usuario.NomeResp,
+                    Email = usuario.Email,
+                };
+
                 return RedirectToAction("Index", "Home");
 
+            }
+            else
+            {
+                TempData["ErrorMessage"] = "Email ou senha incorretos!";
             }
 
             return View();
@@ -113,8 +129,8 @@ namespace Tcc.Controllers
 
         public IActionResult Logout()
         {
-            HttpContext.SignOutAsync();
-            return RedirectToAction("Login");
+            HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Cadastro","Conta");
         }
 
 
