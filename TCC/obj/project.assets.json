@@ -3124,11 +3124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\Tcc.csproj",
       "projectName": "Tcc",
-      "projectPath": "C:\\tccarchive\\TCC\\Tcc\\Tcc.csproj",
+      "projectPath": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\Tcc.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\tccarchive\\TCC\\Tcc\\obj\\",
+      "outputPath": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

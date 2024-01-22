@@ -33,11 +33,4 @@ function cbuttonF2(btn) {
         localStorage.setItem("erros", erros.toString());
         console.log("Erros: " + erros);
     }
-
-}
-
-
-
-
-
-
+};

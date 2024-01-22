@@ -2,7 +2,6 @@
 
 <head>
     <link rel="stylesheet" href="~/Dcss/style.css" />
-    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
 </head>
 
@@ -25,45 +24,41 @@
         <div class="grid-botao">
 
             <div class="linha1">
-                <a class="m-botao" onclick="cbuttonF2('btn1')" id="btn1">
+                <a class="m-botao"  onclick="cbuttonF2('btn1')" id="btn1">
                     <img class="jogo-letras" src="~/imgsDalto/morcego.png">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn2')" id="btn2">
+                <a class="m-botao"  onclick="cbuttonF2('btn2')" id="btn2">
                     <img class="jogo-letras" src="~/imgsDalto/coelho.png">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn3')" id="btn3">
+                <a class="m-botao"  onclick="cbuttonF2('btn3')" id="btn3">
                     <img class="jogo-letras" src="~/imgsDalto/lesma.jpg">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn4')" id="btn4">
+                <a class="m-botao"  onclick="cbuttonF2('btn4')" id="btn4">
                     <img class="jogo-letras" src="~/imgsDalto/cobra.png">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn5')" id="btn5">
+                <a class="m-botao"  onclick="cbuttonF2('btn5')" id="btn5">
                     <img class="jogo-letras" src="~/imgsDalto/borboleta.jpg">
                 </a>
             </div>
 
 
             <div class="linha2">
-                <a class="m-botao" onclick="cbuttonF2('btn6')" id="btn6">
+                <a class="m-botao"  onclick="cbuttonF2('btn6')" id="btn6">
                     <img class="jogo-letras" src="~/imgsDalto/peixe.png">
                 </a>
                 <a class="m-botao" onclick="cbuttonF2('btn7')" id="btn7">
                     <img class="jogo-letras" src="~/imgsDalto/passaro.png">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn8')" id="btn8">
+                <a class="m-botao"  onclick="cbuttonF2('btn8')" id="btn8">
                     <img class="jogo-letras" src="~/imgsDalto/tartaruga.png">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn9')" id="btn9">
+                <a class="m-botao"  onclick="cbuttonF2('btn9')" id="btn9">
                     <img class="jogo-letras" src="~/imgsDalto/pato.jpg">
                 </a>
-                <a class="m-botao" onclick="cbuttonF2('btn10')" id="btn10">
+                <a class="m-botao"  onclick="cbuttonF2('btn10')" id="btn10">
                     <img class="jogo-letras" src="~/imgsDalto/nada.jpg">
                 </a>
 
-            </div>
-
-            <div class="linha3">
-                <button class="result" id="enviarJogada"> Resultado </button>
             </div>
             
         </div>
@@ -71,26 +66,7 @@
     </div>
 
 
-
-    </div>
-
-    <script>
-        // Adicione um manipulador de eventos ao botão
-        $('#enviarJogada').on('click', function () {
-            // Suponha que 'minhaVariavel' seja a variável que você deseja verificar
-            var acertos = localStorage.getItem("acertos");
-            console.log(acertos + "verificação script no html");
-
-            // Faça a verificação
-            if (acertos >= 15) {
-                // Se a variável for maior que 15, redirecione para outra página
-                window.location.href = '/Daltonismo/GoodResult';
-            } else {
-                // Senão, redirecione para outra página
-                window.location.href = '/Daltonismo/BadResult';
-            }
-        });
-    </script>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 
     <script src="~/jsDaltonismo/Fase18.js"></script>
 

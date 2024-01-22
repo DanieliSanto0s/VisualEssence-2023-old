@@ -74,7 +74,7 @@ app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Conta}/{action=Cadastro}/{id?}");
+    pattern: "{controller=Conta}/{action=Login}/{id?}");
 
 
 

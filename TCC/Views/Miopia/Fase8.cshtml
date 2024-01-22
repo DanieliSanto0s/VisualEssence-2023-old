@@ -40,37 +40,13 @@
                 </div>
 
             </div>
-                <div class="linha3">
-                    
-                <button type="submit" class="result" id="enviarJogada">Diagnóstico</button>
-                </div>
-
         </div>
 
 
+
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-
-        <script>
-            // Adicione um manipulador de eventos ao botão
-            $('#enviarJogada').on('click', function () {
-                // Suponha que 'minhaVariavel' seja a variável que você deseja verificar
-                var acertos = localStorage.getItem("acertos");
-                console.log(acertos + "verificação script no html");
-
-                // Faça a verificação
-                if (acertos >= 5) {
-                    // Se a variável for maior que 15, redirecione para outra página
-                    window.location.href = '/Miopia/GoodResult';
-                } else {
-                    // Senão, redirecione para outra página
-                    window.location.href = '/Miopia/BadResult';
-                }
-            });
-        </script>
-
-    </body>
     <script src="~/jsMiopia/fase8.js"></script>
+    </body>
 
     </html>
 

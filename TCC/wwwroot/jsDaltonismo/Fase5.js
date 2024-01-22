@@ -21,6 +21,7 @@ erros = parseInt(localStorage.getItem("erros")) || 0;
 console.log("Acertos" + acertos);
 console.log("Não vejo" + naoVer);
 
+
 function cbuttonF2(btn) {
     if (btn === btncerto) {
         acertos++;
@@ -33,11 +34,5 @@ function cbuttonF2(btn) {
         localStorage.setItem("erros", erros.toString());
         console.log("Erros: " + erros);
     }
-
-}
-
-
-
-
-
+};
 

@@ -9,7 +9,7 @@
 
 body {
     width: 100%;
-    height: 100%;
+    height: auto;
     background: linear-gradient(180deg, #0763B9 0%, #6DD3FF 62.04%);
 }
 
@@ -20,6 +20,7 @@ header {
 }
 
 nav {
+    position:fixed;
     width: 100%;
 }
 
@@ -109,4 +110,12 @@ label {
     height: auto;
     align-items: flex-start;
     width: 100%;
+    height:auto;
+}
+
+.content .descConteudo p{
+        background-color:magenta;
+        word-break:normal;
+        height:30em;
+
 }

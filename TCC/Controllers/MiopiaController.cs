@@ -78,7 +78,7 @@ namespace Tcc.Controllers
         }
 
         [HttpPost]
-        public ActionResult Fase8(Jogada jogada, int acertos)
+        public async Task<ActionResult> Fase8(Jogada jogada, int acertos)
         {
             int pontuacaoInt = acertos;
 
@@ -89,7 +89,7 @@ namespace Tcc.Controllers
                 var jogadaEnv = _context.Jogada.SingleOrDefault(j => j.IdCrianca == lastIdCrianca);
 
                 jogadaEnv.PontuacaoJogo = pontuacaoInt;
-                _context.SaveChangesAsync();
+               await _context.SaveChangesAsync();
             }
 
             return View();

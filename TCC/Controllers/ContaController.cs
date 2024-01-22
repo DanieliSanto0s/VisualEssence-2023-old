@@ -37,9 +37,14 @@ namespace Tcc.Controllers
         {
             if (_context.Usuario.Where(u => u.Email == usuario.Email).FirstOrDefault() == null)
             {
+                
                 usuario.Email = usuario.Email.ToLower();
 
+                if (usuario.Senha != null)
+                {
                 usuario.CriarHash();
+                }
+
                 _context.Add(usuario);
                 await _context.SaveChangesAsync();
 
@@ -56,7 +61,7 @@ namespace Tcc.Controllers
         }
 
         [HttpGet]
-        public IActionResult Login()
+        public async Task<IActionResult> Login()
         {
             return View();
         }

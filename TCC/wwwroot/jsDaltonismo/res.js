@@ -1,1 +1,1 @@
-﻿document.getElementById("Total").innerText = "Acertos: " + localStorage.getItem("acertos");
+﻿document.getElementById("Total").innerText = "Acertos: " + localStorage.getItem("acertos") + "/18";

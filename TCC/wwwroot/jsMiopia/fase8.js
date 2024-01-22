@@ -33,8 +33,21 @@ function cbuttonF8(btn) {
 console.log("Acertos" + acertos);
 console.log("Não vejo" + naoVer);
 
+$("#btn1, #btn2, #btn3, #btn4").on('click', function () {
+    var acertos = localStorage.getItem("acertos");
+
+    if (acertos >= 6) {
+        window.location.href = '/Miopia/GoodResult';
+    }
+
+    else {
+        window.location.href = '/Miopia/BadResult';
+    }
+
+});
+
 jQuery(document).ready(function () {
-    jQuery('#enviarJogada').click(function () {
+    jQuery("#btn1, #btn2, #btn3, #btn4").click(function () {
 
         var acertosCont = localStorage.getItem("acertos")
 

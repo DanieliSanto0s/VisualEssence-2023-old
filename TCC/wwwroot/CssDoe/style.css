@@ -74,6 +74,10 @@ section{
     text-align: center;
 }
 
+section img {
+    background-color: white;
+}
+
 nav{
     background: rgb(64,58,171);
     background: linear-gradient(180deg, rgba(64,58,171,0.6727065826330532) 0%, rgba(0,212,255,0) 100%);     

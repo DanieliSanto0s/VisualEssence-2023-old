@@ -23,19 +23,17 @@ acertos = parseInt(localStorage.getItem("acertos")) || 0;
 naoVer = parseInt(localStorage.getItem("naoVer")) || 0;
 erros = parseInt(localStorage.getItem("erros")) || 0;
 
-function cbuttonF1(btn) {
+
+function cbuttonF2(btn) {
     if (btn === btncerto) {
         acertos++;
         localStorage.setItem("acertos", acertos.toString());
-    }
-    else if (btn === "btn10") {
+    } else if (btn === "btn10") {
         naoVer++;
         localStorage.setItem("naoVer", naoVer.toString());
-    }
-    else {
+    } else {
         erros++;
         localStorage.setItem("erros", erros.toString());
         console.log("Erros: " + erros);
     }
-
-}
+};

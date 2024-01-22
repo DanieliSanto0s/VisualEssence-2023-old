@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x+XLO3ALgY+jFpHlMHvtesFEN2wSThXynm5+rnDbPVM=",
+  "Hash": "+5ww1bNSIPbu8/D8EqltL2GHqYkKmG/UNtjWRx8qAMA=",
   "Source": "Tcc",
   "BasePath": "_content/Tcc",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tcc\\wwwroot",
       "Source": "Tcc",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tcc.styles.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tcc.styles.css",
       "SourceId": "Tcc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Tcc.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tcc.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tcc.styles.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css",
       "SourceId": "Tcc",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Tcc.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Acss/style.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Acss\\style.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cadCrianca\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\cadCrianca\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "cadCrianca/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\cadCrianca\\style.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\aviso.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\aviso.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "css/aviso.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\aviso.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\criancaCadastro.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\criancaCadastro.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "css/criancaCadastro.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\criancaCadastro.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\login.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\site.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\sucesso.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\sucesso.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "css/sucesso.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\sucesso.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\CssDoe\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\CssDoe\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "CssDoe/style.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\CssDoe\\style.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cssPerfil\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\cssPerfil\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "cssPerfil/style.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\cssPerfil\\style.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\badresult.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\badresult.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Dcss/badresult.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\Dcss\\badresult.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\goodresult.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\goodresult.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Dcss/goodresult.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Dcss\\goodresult.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\IntroDalto.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\IntroDalto.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Dcss/IntroDalto.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\Dcss\\IntroDalto.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Dcss/style.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\Dcss\\style.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\favicon.ico",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "feedbackCss/style.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\feedbackCss\\style.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\adevaQRCode.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\adevaQRCode.jpeg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/adevaQRCode.jpeg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\adevaQRCode.jpeg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\amdafQRCode.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\amdafQRCode.jpeg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/amdafQRCode.jpeg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\amdafQRCode.jpeg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\andorinhaQRCode.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\andorinhaQRCode.jpeg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/andorinhaQRCode.jpeg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\andorinhaQRCode.jpeg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/crianca.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\crianca.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\crianças.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\crianças.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/crianças.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\crianças.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\daltonismo.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\daltonismo.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/daltonismo.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\daltonismo.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\grafico.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\grafico.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/grafico.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\grafico.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\home.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\home.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/home.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\home.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/home-b.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\home-b.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\logo.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\logout.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\logout.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/logout.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logout.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\lua.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\lua.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/lua.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lua.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\miopia.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\miopia.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/miopia.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\miopia.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\parque.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\parque.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/parque.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\parque.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\parque.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\parque.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/parque.png",
       "AssetKind": "All",
@@ -561,12 +561,12 @@
       "OriginalItemSpec": "wwwroot\\img\\parque.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\Perfil.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
-      "RelativePath": "img/perfil.png",
+      "RelativePath": "img/Perfil.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\perfil.png"
+      "OriginalItemSpec": "wwwroot\\img\\Perfil.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\plank.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\plank.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/plank.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\plank.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\play.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\play.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/play.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\play.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\playground.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\playground.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/playground.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\playground.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\playground2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\playground2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/playground2.png",
       "AssetKind": "All",
@@ -646,10 +646,27 @@
       "OriginalItemSpec": "wwwroot\\img\\playground2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\sol.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\qr_amdaf.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
+      "BasePath": "_content/Tcc",
+      "RelativePath": "img/qr_amdaf.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\qr_amdaf.png"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\sol.png",
+      "SourceId": "Tcc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/sol.png",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sol.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\telafundo.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\telafundo.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "img/telafundo.png",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\telafundo.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\1.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\1.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/1.png",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\1.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\10.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\10.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/10.png",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\10.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\11.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\11.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/11.png",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\11.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\12.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\12.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/12.png",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\12.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\13.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\13.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/13.png",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\13.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\14.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\14.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/14.png",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\14.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\15.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\15.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/15.png",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\15.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\16.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\16.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/16.png",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\16.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\17.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\17.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/17.png",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\17.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\18.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\18.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/18.png",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\18.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/2.png",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\3.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\3.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/3.png",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\3.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\4.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\4.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/4.png",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\4.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\5.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\5.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/5.png",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\5.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\6.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\6.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/6.png",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\6.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\7.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\7.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/7.png",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\7.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\8.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\8.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/8.png",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\8.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\9.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\9.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/9.png",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\9.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\animais.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\animais.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/animais.png",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\animais.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\borboleta.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\borboleta.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/borboleta.jpg",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\borboleta.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cachorro.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\cachorro.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/cachorro.png",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\cachorro.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\canguru.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\canguru.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/canguru.jpg",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\canguru.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cervo.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\cervo.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/cervo.png",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\cervo.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cobra.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\cobra.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/cobra.png",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\cobra.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\coelho.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\coelho.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/coelho.png",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\coelho.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\elefante.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\elefante.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/elefante.jpg",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\elefante.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\esquilo.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\esquilo.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/esquilo.png",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\esquilo.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.avif",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.avif",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/fundoresul.avif",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\fundoresul.avif"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/fundoresul.jpg",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\fundoresul.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\girafa.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\girafa.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/girafa.jpg",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\girafa.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\golfinho.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\golfinho.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/golfinho.jpg",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\golfinho.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\Home.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\Home.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/Home.png",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\Home.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\imginstru.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\imginstru.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/imginstru.png",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\imginstru.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\lesma.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\lesma.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/lesma.jpg",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\lesma.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\morcego.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\morcego.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/morcego.png",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\morcego.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\nada.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\nada.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/nada.jpg",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\nada.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\passaro.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\passaro.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/passaro.png",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\passaro.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\pato.jpg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\pato.jpg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/pato.jpg",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\pato.jpg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\peixe.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\peixe.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/peixe.png",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\peixe.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\pinguin.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\pinguin.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/pinguin.png",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\pinguin.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\plank.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\plank.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/plank.png",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\plank.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\play.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\play.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/play.png",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\play.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\resul.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\resul.jpeg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/resul.jpeg",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\resul.jpeg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\tartaruga.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\tartaruga.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/tartaruga.png",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\tartaruga.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\tela fundo.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\tela fundo.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/tela fundo.png",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\tela fundo.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\urso.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\urso.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/urso.png",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\urso.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\Zoojogo.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\Zoojogo.jpeg",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "imgsDalto/Zoojogo.jpeg",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\imgsDalto\\Zoojogo.jpeg"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\1.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\1.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/1.png",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\1.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/2.png",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\3.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\3.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/3.png",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\3.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\4.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\4.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/4.png",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\4.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\5.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\5.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/5.png",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\5.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\6.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\6.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/6.png",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\6.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\7.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\7.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/7.png",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\7.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\8.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\8.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/8.png",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\8.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\1.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\1.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/1.png",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\1.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/2.png",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\3.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\3.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/3.png",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\3.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\4.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\4.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/4.png",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\4.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\5.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\5.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/5.png",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\5.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\6.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\6.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/6.png",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\6.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\7.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\7.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/7.png",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\7.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\8.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\8.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Corretas/8.png",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Corretas\\8.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/1inc.png",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\1inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/1inc2.png",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\1inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/2inc.png",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\2inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/2inc2.png",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\2inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/3inc.png",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\3inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/3inc2.png",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\3inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/4inc.png",
       "AssetKind": "All",
@@ -1870,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\4inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/4inc2.png",
       "AssetKind": "All",
@@ -1887,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\4inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/5inc.png",
       "AssetKind": "All",
@@ -1904,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\5inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/5inc2.png",
       "AssetKind": "All",
@@ -1921,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\5inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/6inc.png",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\6inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/6inc2.png",
       "AssetKind": "All",
@@ -1955,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\6inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/7inc.png",
       "AssetKind": "All",
@@ -1972,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\7inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/7inc2.png",
       "AssetKind": "All",
@@ -1989,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\7inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/8inc.png",
       "AssetKind": "All",
@@ -2006,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\8inc.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc2.png",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc2.png",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "ImgsMiopia/Incorretas/8inc2.png",
       "AssetKind": "All",
@@ -2023,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\ImgsMiopia\\Incorretas\\8inc2.png"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\loginregister.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\js\\loginregister.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "js/loginregister.js",
       "AssetKind": "All",
@@ -2040,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\js\\loginregister.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\RegistroMiopia.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\js\\RegistroMiopia.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "js/RegistroMiopia.js",
       "AssetKind": "All",
@@ -2057,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\js\\RegistroMiopia.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\js\\site.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2074,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase1.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase1.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase1.js",
       "AssetKind": "All",
@@ -2091,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase1.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase10.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase10.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase10.js",
       "AssetKind": "All",
@@ -2108,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase10.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase11.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase11.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase11.js",
       "AssetKind": "All",
@@ -2125,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase11.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase12.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase12.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase12.js",
       "AssetKind": "All",
@@ -2142,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase12.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase13.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase13.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase13.js",
       "AssetKind": "All",
@@ -2159,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase13.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase14.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase14.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase14.js",
       "AssetKind": "All",
@@ -2176,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase14.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase15.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase15.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase15.js",
       "AssetKind": "All",
@@ -2193,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase15.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase16.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase16.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase16.js",
       "AssetKind": "All",
@@ -2210,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase16.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase17.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase17.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase17.js",
       "AssetKind": "All",
@@ -2227,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase17.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase18.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase18.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase18.js",
       "AssetKind": "All",
@@ -2244,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase18.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase2.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase2.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase2.js",
       "AssetKind": "All",
@@ -2261,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase2.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase3.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase3.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase3.js",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase3.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase4.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase4.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase4.js",
       "AssetKind": "All",
@@ -2295,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase4.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase5.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase5.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase5.js",
       "AssetKind": "All",
@@ -2312,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase5.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase6.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase6.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase6.js",
       "AssetKind": "All",
@@ -2329,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase6.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase7.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase7.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase7.js",
       "AssetKind": "All",
@@ -2346,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase7.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase8.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase8.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase8.js",
       "AssetKind": "All",
@@ -2363,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase8.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase9.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase9.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/Fase9.js",
       "AssetKind": "All",
@@ -2380,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\Fase9.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\res.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\res.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsDaltonismo/res.js",
       "AssetKind": "All",
@@ -2397,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\jsDaltonismo\\res.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase1.js",
       "AssetKind": "All",
@@ -2414,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase1.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase2.js",
       "AssetKind": "All",
@@ -2431,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase2.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase3.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase3.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase3.js",
       "AssetKind": "All",
@@ -2448,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase3.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase4.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase4.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase4.js",
       "AssetKind": "All",
@@ -2465,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase4.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase5.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase5.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase5.js",
       "AssetKind": "All",
@@ -2482,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase5.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase6.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase6.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase6.js",
       "AssetKind": "All",
@@ -2499,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase6.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase7.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase7.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase7.js",
       "AssetKind": "All",
@@ -2516,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase7.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/fase8.js",
       "AssetKind": "All",
@@ -2533,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\fase8.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\res.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\res.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "jsMiopia/res.js",
       "AssetKind": "All",
@@ -2550,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\jsMiopia\\res.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2567,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2584,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2601,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2618,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2635,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2652,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2669,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2686,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2703,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2720,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2737,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2754,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2771,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2788,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2805,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2822,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2839,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2856,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2873,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2890,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2907,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2924,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2941,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2958,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2975,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2992,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3009,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3026,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3043,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3060,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3077,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3094,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3111,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3128,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3145,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3162,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3179,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3196,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3213,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3230,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3247,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3264,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3281,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3298,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3315,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3332,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3349,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3366,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3383,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3400,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3417,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3434,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3451,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3468,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3485,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3502,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3519,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Mcss/mstyle.css",
       "AssetKind": "All",
@@ -3536,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\Mcss\\mstyle.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\result.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Mcss\\result.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Mcss/result.css",
       "AssetKind": "All",
@@ -3553,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\Mcss\\result.css"
     },
     {
-      "Identity": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
+      "Identity": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
       "SourceId": "Tcc",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\",
       "BasePath": "_content/Tcc",
       "RelativePath": "Mcss/style.css",
       "AssetKind": "All",

@@ -21,6 +21,7 @@ erros = parseInt(localStorage.getItem("erros")) || 0;
 console.log("Acertos" + acertos);
 console.log("Não vejo" + naoVer);
 
+
 function cbuttonF2(btn) {
     if (btn === btncerto) {
         acertos++;
@@ -36,26 +37,37 @@ function cbuttonF2(btn) {
         console.log("Erros: " + erros);
     }
 
-
-
 }  
 
-jQuery(document).ready(function () {
-    jQuery('#enviarJogada').click(function () {
+$("#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9, #btn10").on('click', function () {
+    var acertos = localStorage.getItem("acertos");
 
-        var acertosCont = localStorage.getItem("acertos")
+        if (acertos >= 15) {
+        window.location.href = '/Daltonismo/GoodResult';
+    }
 
-        $.ajax({
-            url: '/Daltonismo/Fase18',
-            type: 'POST',
-            contenttype: false,
-            data: { acertos: acertosCont },
-            success: function (result) {
-                // Handle success
-            },
-            error: function (xhr, status, error) {
-                // Handle error
-            }
+    else {
+        window.location.href = '/Daltonismo/BadResult';
+    }
+
+});
+    jQuery(document).ready(function () {
+        jQuery("#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9, #btn10").click(function () {
+
+            var acertosCont = localStorage.getItem("acertos");
+
+            $.ajax({
+                url: '/Daltonismo/Fase18',
+                type: 'POST',
+                contenttype: false,
+                data: { acertos: acertosCont },
+                success: function (result) {
+                    // Handle success
+                },
+                error: function (xhr, status, error) {
+                    // Handle error
+                }
+            });
+
         });
     });
-});

@@ -9,189 +9,189 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tcc
 build_property.RootNamespace = Tcc
-build_property.ProjectDir = C:\tccarchive\TCC\TCC\
+build_property.ProjectDir = C:\Users\Bruno\Desktop\VisualEssenceProjeto\TCC\Tcc\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\tccarchive\TCC\TCC
+build_property.MSBuildProjectDirectory = C:\Users\Bruno\Desktop\VisualEssenceProjeto\TCC\Tcc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/tccarchive/TCC/Tcc/Views/Conta/Cadastro.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Conta/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFcQ2FkYXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Conta/Login.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Conta/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/BadResult.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/BadResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xCYWRSZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/CadastroDaltonismo.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/CadastroDaltonismo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xDYWRhc3Ryb0RhbHRvbmlzbW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/DaltoGame.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/DaltoGame.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xEYWx0b0dhbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase1.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase10.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase10.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase11.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase11.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase12.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase12.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase13.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase13.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase14.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase14.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase15.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase15.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase16.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase16.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase17.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase17.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase18.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase18.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase2.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase3.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase4.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase5.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase5.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase6.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase6.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase7.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase7.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase8.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase8.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlOC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/Fase9.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/Fase9.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xGYXNlOS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Daltonismo/GoodResult.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Daltonismo/GoodResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFsdG9uaXNtb1xHb29kUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Doacao/Doacao.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Doacao/Doacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9hY2FvXERvYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Feedback/Feedback.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Feedback/Feedback.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcRmVlZGJhY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Home/Index.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/BadResult.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/BadResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEJhZFJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/CadastroMiopia.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/CadastroMiopia.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXENhZGFzdHJvTWlvcGlhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase1.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase2.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase3.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2UzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase4.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase5.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase5.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase6.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase6.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase7.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase7.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/Fase8.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/Fase8.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEZhc2U4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/GoodResult.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/GoodResult.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXEdvb2RSZXN1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Miopia/MiopiaGame.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Miopia/MiopiaGame.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlvcGlhXE1pb3BpYUdhbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Perfil/Perfil.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Perfil/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZmlsXFBlcmZpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Shared/Error.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/_ViewImports.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/_ViewStart.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/tccarchive/TCC/Tcc/Views/Shared/_Layout.cshtml]
+[C:/Users/Bruno/Desktop/VisualEssenceProjeto/TCC/Tcc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9rrsv4y27b

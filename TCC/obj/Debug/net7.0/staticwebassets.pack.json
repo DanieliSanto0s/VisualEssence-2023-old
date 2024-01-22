@@ -1,835 +1,839 @@
 {
   "Files": [
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tcc.bundle.scp.css",
       "PackagePath": "staticwebassets\\Tcc.bundle.scp.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Acss\\style.css",
       "PackagePath": "staticwebassets\\Acss\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\CssDoe\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\CssDoe\\style.css",
       "PackagePath": "staticwebassets\\CssDoe\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\IntroDalto.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\IntroDalto.css",
       "PackagePath": "staticwebassets\\Dcss\\IntroDalto.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\badresult.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\badresult.css",
       "PackagePath": "staticwebassets\\Dcss\\badresult.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\goodresult.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\goodresult.css",
       "PackagePath": "staticwebassets\\Dcss\\goodresult.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Dcss\\style.css",
       "PackagePath": "staticwebassets\\Dcss\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\1.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\1.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\1.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\3.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\3.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\3.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\4.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\4.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\4.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\5.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\5.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\5.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\6.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\6.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\6.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\7.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\7.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\7.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\8.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\8.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\8.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\1.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\1.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\1.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\3.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\3.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\3.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\4.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\4.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\4.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\5.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\5.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\5.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\6.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\6.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\6.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\7.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\7.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\7.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\8.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Corretas\\8.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Corretas\\8.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\1inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\1inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\1inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\2inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\2inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\2inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\3inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\3inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\3inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\4inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\4inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\4inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\5inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\5inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\5inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\6inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\6inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\6inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\7inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\7inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\7inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\8inc.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\ImgsMiopia\\Incorretas\\8inc2.png",
       "PackagePath": "staticwebassets\\ImgsMiopia\\Incorretas\\8inc2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Mcss\\mstyle.css",
       "PackagePath": "staticwebassets\\Mcss\\mstyle.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\result.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Mcss\\result.css",
       "PackagePath": "staticwebassets\\Mcss\\result.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\Mcss\\style.css",
       "PackagePath": "staticwebassets\\Mcss\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cadCrianca\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\cadCrianca\\style.css",
       "PackagePath": "staticwebassets\\cadCrianca\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\cssPerfil\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\cssPerfil\\style.css",
       "PackagePath": "staticwebassets\\cssPerfil\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\aviso.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\aviso.css",
       "PackagePath": "staticwebassets\\css\\aviso.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\criancaCadastro.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\criancaCadastro.css",
       "PackagePath": "staticwebassets\\css\\criancaCadastro.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\css\\sucesso.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\css\\sucesso.css",
       "PackagePath": "staticwebassets\\css\\sucesso.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\feedbackCss\\style.css",
       "PackagePath": "staticwebassets\\feedbackCss\\style.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\adevaQRCode.jpeg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\Perfil.png",
+      "PackagePath": "staticwebassets\\img\\Perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\adevaQRCode.jpeg",
       "PackagePath": "staticwebassets\\img\\adevaQRCode.jpeg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\amdafQRCode.jpeg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\amdafQRCode.jpeg",
       "PackagePath": "staticwebassets\\img\\amdafQRCode.jpeg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\andorinhaQRCode.jpeg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\andorinhaQRCode.jpeg",
       "PackagePath": "staticwebassets\\img\\andorinhaQRCode.jpeg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\crianca.png",
       "PackagePath": "staticwebassets\\img\\crianca.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\crianças.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\crianças.png",
       "PackagePath": "staticwebassets\\img\\crianças.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\daltonismo.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\daltonismo.png",
       "PackagePath": "staticwebassets\\img\\daltonismo.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\grafico.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\grafico.jpg",
       "PackagePath": "staticwebassets\\img\\grafico.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\home-b.png",
       "PackagePath": "staticwebassets\\img\\home-b.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\home.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\home.png",
       "PackagePath": "staticwebassets\\img\\home.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\logout.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\logout.png",
       "PackagePath": "staticwebassets\\img\\logout.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\lua.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\lua.png",
       "PackagePath": "staticwebassets\\img\\lua.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\miopia.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\miopia.png",
       "PackagePath": "staticwebassets\\img\\miopia.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\parque.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\parque.jpg",
       "PackagePath": "staticwebassets\\img\\parque.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\parque.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\parque.png",
       "PackagePath": "staticwebassets\\img\\parque.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\perfil.png",
-      "PackagePath": "staticwebassets\\img\\perfil.png"
-    },
-    {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\plank.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\plank.png",
       "PackagePath": "staticwebassets\\img\\plank.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\play.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\play.png",
       "PackagePath": "staticwebassets\\img\\play.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\playground.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\playground.png",
       "PackagePath": "staticwebassets\\img\\playground.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\playground2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\playground2.png",
       "PackagePath": "staticwebassets\\img\\playground2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\sol.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\qr_amdaf.png",
+      "PackagePath": "staticwebassets\\img\\qr_amdaf.png"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\sol.png",
       "PackagePath": "staticwebassets\\img\\sol.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\img\\telafundo.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\img\\telafundo.png",
       "PackagePath": "staticwebassets\\img\\telafundo.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\1.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\1.png",
       "PackagePath": "staticwebassets\\imgsDalto\\1.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\10.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\10.png",
       "PackagePath": "staticwebassets\\imgsDalto\\10.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\11.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\11.png",
       "PackagePath": "staticwebassets\\imgsDalto\\11.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\12.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\12.png",
       "PackagePath": "staticwebassets\\imgsDalto\\12.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\13.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\13.png",
       "PackagePath": "staticwebassets\\imgsDalto\\13.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\14.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\14.png",
       "PackagePath": "staticwebassets\\imgsDalto\\14.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\15.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\15.png",
       "PackagePath": "staticwebassets\\imgsDalto\\15.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\16.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\16.png",
       "PackagePath": "staticwebassets\\imgsDalto\\16.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\17.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\17.png",
       "PackagePath": "staticwebassets\\imgsDalto\\17.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\18.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\18.png",
       "PackagePath": "staticwebassets\\imgsDalto\\18.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\2.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\2.png",
       "PackagePath": "staticwebassets\\imgsDalto\\2.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\3.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\3.png",
       "PackagePath": "staticwebassets\\imgsDalto\\3.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\4.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\4.png",
       "PackagePath": "staticwebassets\\imgsDalto\\4.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\5.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\5.png",
       "PackagePath": "staticwebassets\\imgsDalto\\5.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\6.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\6.png",
       "PackagePath": "staticwebassets\\imgsDalto\\6.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\7.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\7.png",
       "PackagePath": "staticwebassets\\imgsDalto\\7.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\8.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\8.png",
       "PackagePath": "staticwebassets\\imgsDalto\\8.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\9.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\9.png",
       "PackagePath": "staticwebassets\\imgsDalto\\9.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\Home.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\Home.png",
       "PackagePath": "staticwebassets\\imgsDalto\\Home.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\Zoojogo.jpeg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\Zoojogo.jpeg",
       "PackagePath": "staticwebassets\\imgsDalto\\Zoojogo.jpeg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\animais.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\animais.png",
       "PackagePath": "staticwebassets\\imgsDalto\\animais.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\borboleta.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\borboleta.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\borboleta.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cachorro.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\cachorro.png",
       "PackagePath": "staticwebassets\\imgsDalto\\cachorro.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\canguru.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\canguru.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\canguru.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cervo.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\cervo.png",
       "PackagePath": "staticwebassets\\imgsDalto\\cervo.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\cobra.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\cobra.png",
       "PackagePath": "staticwebassets\\imgsDalto\\cobra.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\coelho.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\coelho.png",
       "PackagePath": "staticwebassets\\imgsDalto\\coelho.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\elefante.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\elefante.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\elefante.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\esquilo.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\esquilo.png",
       "PackagePath": "staticwebassets\\imgsDalto\\esquilo.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.avif",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.avif",
       "PackagePath": "staticwebassets\\imgsDalto\\fundoresul.avif"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\fundoresul.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\fundoresul.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\girafa.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\girafa.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\girafa.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\golfinho.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\golfinho.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\golfinho.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\imginstru.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\imginstru.png",
       "PackagePath": "staticwebassets\\imgsDalto\\imginstru.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\lesma.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\lesma.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\lesma.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\morcego.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\morcego.png",
       "PackagePath": "staticwebassets\\imgsDalto\\morcego.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\nada.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\nada.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\nada.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\passaro.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\passaro.png",
       "PackagePath": "staticwebassets\\imgsDalto\\passaro.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\pato.jpg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\pato.jpg",
       "PackagePath": "staticwebassets\\imgsDalto\\pato.jpg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\peixe.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\peixe.png",
       "PackagePath": "staticwebassets\\imgsDalto\\peixe.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\pinguin.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\pinguin.png",
       "PackagePath": "staticwebassets\\imgsDalto\\pinguin.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\plank.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\plank.png",
       "PackagePath": "staticwebassets\\imgsDalto\\plank.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\play.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\play.png",
       "PackagePath": "staticwebassets\\imgsDalto\\play.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\resul.jpeg",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\resul.jpeg",
       "PackagePath": "staticwebassets\\imgsDalto\\resul.jpeg"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\tartaruga.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\tartaruga.png",
       "PackagePath": "staticwebassets\\imgsDalto\\tartaruga.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\tela fundo.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\tela fundo.png",
       "PackagePath": "staticwebassets\\imgsDalto\\tela fundo.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\imgsDalto\\urso.png",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\imgsDalto\\urso.png",
       "PackagePath": "staticwebassets\\imgsDalto\\urso.png"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase1.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase1.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase1.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase10.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase10.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase10.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase11.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase11.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase11.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase12.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase12.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase12.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase13.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase13.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase13.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase14.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase14.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase14.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase15.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase15.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase15.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase16.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase16.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase16.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase17.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase17.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase17.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase18.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase18.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase18.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase2.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase2.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase2.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase3.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase3.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase3.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase4.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase4.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase4.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase5.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase5.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase5.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase6.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase6.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase6.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase7.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase7.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase7.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase8.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase8.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase8.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase9.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\Fase9.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\Fase9.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\res.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsDaltonismo\\res.js",
       "PackagePath": "staticwebassets\\jsDaltonismo\\res.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase1.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase1.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase2.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase2.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase3.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase3.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase3.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase4.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase4.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase4.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase5.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase5.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase5.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase6.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase6.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase6.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase7.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase7.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase7.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\fase8.js",
       "PackagePath": "staticwebassets\\jsMiopia\\fase8.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\jsMiopia\\res.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\jsMiopia\\res.js",
       "PackagePath": "staticwebassets\\jsMiopia\\res.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\RegistroMiopia.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\js\\RegistroMiopia.js",
       "PackagePath": "staticwebassets\\js\\RegistroMiopia.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\loginregister.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\js\\loginregister.js",
       "PackagePath": "staticwebassets\\js\\loginregister.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\tccarchive\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
