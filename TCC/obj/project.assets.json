@@ -3124,11 +3124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\Tcc.csproj",
+      "projectUniqueName": "C:\\src\\Fita\\TCC\\Tcc\\Tcc.csproj",
       "projectName": "Tcc",
-      "projectPath": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\Tcc.csproj",
+      "projectPath": "C:\\src\\Fita\\TCC\\Tcc\\Tcc.csproj",
       "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno\\Desktop\\VisualEssenceProjeto\\TCC\\Tcc\\obj\\",
+      "outputPath": "C:\\src\\Fita\\TCC\\Tcc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3139,6 +3139,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3151,6 +3152,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3209,7 +3215,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },
