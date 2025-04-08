@@ -23,7 +23,7 @@ A versão 0.1 do sistema apresenta jogos interativos que testam a percepção de
 - Ana Carolina Santos Morata  
 - Bruno Eduardo Antunis Santos  
 - Cibelle Gonçalves Alves  
-- Danieli Vitória Barbosa dos Santos (Eu)  
+- Danieli Vitória Barbosa dos Santos
 - Gabriela Satelis  
 
 ## Tecnologias utilizadas
