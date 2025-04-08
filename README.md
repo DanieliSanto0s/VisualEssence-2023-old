@@ -1,6 +1,6 @@
 # VisualEssence-2023-old
 
-**VisualEssence-2023-old* foi a primeira versão do projeto desenvolvido como parte do TCC de 2023, com o objetivo de auxiliar pais, responsáveis e docentes na identificação precoce de problemas visuais em crianças de 4 a 8 anos, como miopia e daltonismo. Esta versão inicial foi criada com base em um protótipo funcional, visando testar a viabilidade do conceito através de jogos interativos simples.
+**VisualEssence-2023-old** foi a primeira versão do projeto desenvolvido como parte do TCC de 2023, com o objetivo de auxiliar pais, responsáveis e docentes na identificação precoce de problemas visuais em crianças de 4 a 8 anos, como miopia e daltonismo. Esta versão inicial foi criada com base em um protótipo funcional, visando testar a viabilidade do conceito através de jogos interativos simples.
 
 Embora o design da versão 0.1 seja mais simples e rudimentar, o projeto já tinha como foco a aplicação de métodos oftalmológicos para identificação de problemas visuais e recebeu validação de profissionais da área da saúde, como médicos e enfermeiros do Hospital de Olhos Lions da cidade.
 
